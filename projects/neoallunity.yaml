@@ -1,0 +1,15 @@
+project:
+  id: neoallunity
+  name: NeoAllUnity publishing
+  domain: publishing
+  system: S3
+  status: ACTIVE
+  priority: P1
+  repository: [neoallunity/integral-philosophy, neoallunity/allunity-wagtail, neoallunity/Magazine]
+  owner: dominicusin
+  objective: Unified knowledge and publishing platform
+  milestones: [{id: canonical-monorepo, status: VERIFY}]
+  dependencies: [Wagtail, PostgreSQL, CI]
+  risks: [stale README links, Wagtail not deployed, Biber build red]
+  completion: {build: required, unit_tests: required, integration_tests: required}
+  evidence: {monorepo: modules/*, archived_modules: 8}

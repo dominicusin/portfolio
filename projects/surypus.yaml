@@ -1,0 +1,16 @@
+project:
+  id: surypus
+  name: Surypus ERP/CRM
+  domain: business-systems
+  system: S1
+  status: ACTIVE
+  priority: P0
+  repository: [surypus/surypus, surypus/surypus.github.io]
+  owner: dominicusin
+  objective: Verified accounting and ERP core
+  milestones:
+    - {id: core-stability, status: ACTIVE}
+  dependencies: [PostgreSQL, CI, Authentication, Authorization]
+  risks: [RBAC correctness, tenant isolation, financial invariants]
+  completion: {build: required, unit_tests: required, integration_tests: required, security_review: required}
+  evidence: {ci: "29/30 main runs success", release: v1.1.1}

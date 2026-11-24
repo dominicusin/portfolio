@@ -1,0 +1,14 @@
+project:
+  id: infrastructure
+  name: Systems and infrastructure
+  domain: infrastructure
+  system: S4
+  status: ACTIVE
+  priority: P0
+  repository: [dominicusin/Linux-Serv-Ansible, dominicusin/alpine-wdmch-builder, dominicusin/guix-config]
+  owner: dominicusin
+  objective: Reproducible system configuration and rescue tooling
+  milestones: [{id: green-ansible-ci, status: BLOCKED}]
+  dependencies: [GitHub Actions, venv with jinja2, WDMCH test host]
+  risks: [ansible-lint 10 failures, jinja2 missing, private repos absent from public audits]
+  completion: {build: required, integration_tests: required, security_review: required}

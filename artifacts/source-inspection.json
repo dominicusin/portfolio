@@ -1,0 +1,630 @@
+{
+  "dominicusin_Linux-Serv-Ansible": {
+    "files_scanned": 778,
+    "top_ext": [
+      [
+        ".yml",
+        327
+      ],
+      [
+        ".j2",
+        189
+      ],
+      [
+        ".py",
+        64
+      ],
+      [
+        ".md",
+        61
+      ],
+      [
+        ".sh",
+        45
+      ],
+      [
+        ".hs",
+        41
+      ],
+      [
+        ".yaml",
+        14
+      ],
+      [
+        "(none)",
+        11
+      ]
+    ],
+    "marker_files": {
+      "rbac": 42,
+      "idempotency": 21,
+      "stub": 48,
+      "approval": 13,
+      "accounting": 5,
+      "eventstore": 1
+    },
+    "examples": {
+      "rbac": [
+        ".ansible-lint",
+        "LICENSE",
+        ".github/workflows/cmf.yml",
+        "cmf/README.md",
+        "cmf/docs/roadmap.md"
+      ],
+      "idempotency": [
+        ".ansible-lint",
+        "README.md",
+        "cmf/docs/adapters.md",
+        "cmf/docs/execution.md",
+        "cmf/docs/ownership.md"
+      ],
+      "stub": [
+        ".gitignore",
+        "AGENTS.md",
+        ".github/workflows/ci.yml",
+        "cmf/README.md",
+        "cmf/app/Main.hs"
+      ],
+      "approval": [
+        "AGENTS.md",
+        "Makefile",
+        "cmf/docs/operations.md",
+        "cmf/src/CMF/Adapter/Types.hs",
+        "cmf/src/CMF/App/Apply.hs"
+      ],
+      "accounting": [
+        "cmf/tests/adapter-coverage.sh",
+        "group_vars/all/security.yml",
+        "roles/fidonet/tests/test_inn_startup_configs.py",
+        "roles/investigation/tasks/performance.yml",
+        "roles/optimize/tasks/filesystem.yml"
+      ],
+      "eventstore": [
+        "roles/fidonet/tests/test_gateway_directions.py"
+      ]
+    }
+  },
+  "dominicusin_MessageGateway": {
+    "files_scanned": 8,
+    "top_ext": [
+      [
+        ".hs",
+        3
+      ],
+      [
+        ".md",
+        2
+      ],
+      [
+        "(none)",
+        1
+      ],
+      [
+        ".project",
+        1
+      ],
+      [
+        ".cabal",
+        1
+      ]
+    ],
+    "marker_files": {
+      "rbac": 1,
+      "eventstore": 1,
+      "idempotency": 3,
+      "approval": 1,
+      "stub": 1
+    },
+    "examples": {
+      "rbac": [
+        "docs/TZ-MGW.md"
+      ],
+      "eventstore": [
+        "docs/TZ-MGW.md"
+      ],
+      "idempotency": [
+        "docs/TZ-MGW.md",
+        "src/MGW/Model.hs",
+        "test/Gen.hs"
+      ],
+      "approval": [
+        "docs/TZ-MGW.md"
+      ],
+      "stub": [
+        "src/MGW/Model.hs"
+      ]
+    }
+  },
+  "dominicusin_ai-orchestration-platform": {
+    "files_scanned": 445,
+    "top_ext": [
+      [
+        ".py",
+        419
+      ],
+      [
+        ".yaml",
+        6
+      ],
+      [
+        ".md",
+        5
+      ],
+      [
+        ".yml",
+        5
+      ],
+      [
+        "(none)",
+        4
+      ],
+      [
+        ".sh",
+        2
+      ],
+      [
+        ".0",
+        1
+      ],
+      [
+        ".prod",
+        1
+      ]
+    ],
+    "marker_files": {
+      "stub": 13,
+      "jwt": 4,
+      "idempotency": 2,
+      "accounting": 3,
+      "rbac": 2
+    },
+    "examples": {
+      "stub": [
+        "orchestration.py",
+        "orchestration/adapters.py",
+        "orchestration/graphql_api.py",
+        "orchestration/grpc_api.py",
+        "orchestration/redis_cache.py"
+      ],
+      "jwt": [
+        "orchestration.py",
+        "orchestration/github_integration.py",
+        "orchestration/slack_integration.py",
+        "orchestration/ai/client.py"
+      ],
+      "idempotency": [
+        "orchestration/filters.py",
+        "tests/test_filters.py"
+      ],
+      "accounting": [
+        "orchestration/k8s_integration.py",
+        "orchestration/task_graph.py",
+        "orchestration/validators/validators.py"
+      ],
+      "rbac": [
+        "orchestration/security.py",
+        "tests/test_security.py"
+      ]
+    }
+  },
+  "dominicusin_package-maximizer": {
+    "files_scanned": 150,
+    "top_ext": [
+      [
+        ".py",
+        105
+      ],
+      [
+        ".md",
+        14
+      ],
+      [
+        ".rst",
+        11
+      ],
+      [
+        "(none)",
+        5
+      ],
+      [
+        ".txt",
+        5
+      ],
+      [
+        ".yml",
+        4
+      ],
+      [
+        ".toml",
+        2
+      ],
+      [
+        ".json",
+        2
+      ]
+    ],
+    "marker_files": {
+      "stub": 3,
+      "jwt": 3,
+      "rbac": 6,
+      "idempotency": 1
+    },
+    "examples": {
+      "stub": [
+        "CHANGELOG.md",
+        "real_world_data.py",
+        "package_maximizer/tui/app.py"
+      ],
+      "jwt": [
+        "CHANGELOG.md",
+        "PROJECT_PLAN.md",
+        "STRATEGIC_PLAN.md"
+      ],
+      "rbac": [
+        "LICENSE",
+        ".github/workflows/ci.yml",
+        ".github/workflows/publish-test.yml",
+        ".github/workflows/publish.yml",
+        "package_maximizer/integrations/real_repo_integration.py"
+      ],
+      "idempotency": [
+        "real_world_runner.py"
+      ]
+    }
+  },
+  "dominicusin_polyresolver": {
+    "files_scanned": 141,
+    "top_ext": [
+      [
+        ".hs",
+        91
+      ],
+      [
+        "(none)",
+        22
+      ],
+      [
+        ".cabal",
+        20
+      ],
+      [
+        ".md",
+        5
+      ],
+      [
+        ".project",
+        1
+      ],
+      [
+        ".types-only",
+        1
+      ],
+      [
+        ".html",
+        1
+      ]
+    ],
+    "marker_files": {
+      "stub": 45,
+      "accounting": 2,
+      "eventstore": 3,
+      "idempotency": 4
+    },
+    "examples": {
+      "stub": [
+        "docs/AUDIT.md",
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/ТЗ.html",
+        "docs/ТЗ.md",
+        "polyresolver-adapter-darknet/app/Main.hs"
+      ],
+      "accounting": [
+        "docs/ТЗ.html",
+        "docs/ТЗ.md"
+      ],
+      "eventstore": [
+        "docs/ТЗ.html",
+        "docs/ТЗ.md",
+        "polyresolver-types/src/Polyresolver/Types/Result.hs"
+      ],
+      "idempotency": [
+        "polyresolver-core/polyresolver-core.cabal",
+        "polyresolver-core/src/Polyresolver/Core/Cache.hs",
+        "polyresolver-core/src/Polyresolver/Core/Engine.hs",
+        "polyresolver-types/src/Polyresolver/Types/Resolver.hs"
+      ]
+    }
+  },
+  "dominicusin_uaw": {
+    "files_scanned": 83,
+    "top_ext": [
+      [
+        ".py",
+        80
+      ],
+      [
+        ".md",
+        2
+      ],
+      [
+        ".yml",
+        1
+      ]
+    ],
+    "marker_files": {
+      "approval": 15,
+      "jwt": 9,
+      "rbac": 22,
+      "tenant": 1,
+      "idempotency": 3
+    },
+    "examples": {
+      "approval": [
+        "README.md",
+        "__init__.py",
+        "core/audit.py",
+        "core/security.py",
+        "core/uaw_core.py"
+      ],
+      "jwt": [
+        "adapters/base.py",
+        "adapters/figma_adapter.py",
+        "adapters/gamma_adapter.py",
+        "adapters/vercel_adapter.py",
+        "config/integration_config.py"
+      ],
+      "rbac": [
+        "adapters/excalidraw_adapter.py",
+        "automation/automation_engine.py",
+        "automation/event_manager.py",
+        "config/__init__.py",
+        "config/security_config.py"
+      ],
+      "tenant": [
+        "adapters/teams_adapter.py"
+      ],
+      "idempotency": [
+        "config/automation_config.py",
+        "docs/potential_capabilities_report.md",
+        "tests/test_automation.py"
+      ]
+    }
+  },
+  "neoallunity_allunity-wagtail": {
+    "files_scanned": 115,
+    "top_ext": [
+      [
+        ".py",
+        65
+      ],
+      [
+        ".html",
+        27
+      ],
+      [
+        ".md",
+        4
+      ],
+      [
+        ".txt",
+        4
+      ],
+      [
+        "(none)",
+        3
+      ],
+      [
+        ".yml",
+        3
+      ],
+      [
+        ".png",
+        2
+      ],
+      [
+        ".example",
+        1
+      ]
+    ],
+    "marker_files": {
+      "stub": 5,
+      "idempotency": 4,
+      "approval": 3
+    },
+    "examples": {
+      "stub": [
+        "Dockerfile",
+        "PLAN.md",
+        "STRATEGY.md",
+        "templates/components/navigation.html",
+        "templates/home/search_page.html"
+      ],
+      "idempotency": [
+        "PLAN.md",
+        ".hermes/plans/master-plan.md",
+        "apps/core/management/commands/migrate_data.py",
+        "apps/core/migrations/0001_seed_content.py"
+      ],
+      "approval": [
+        ".github/workflows/ci.yml",
+        ".hermes/plans/master-plan.md",
+        "apps/core/management/commands/migrate_data.py"
+      ]
+    }
+  },
+  "neoallunity_integral-philosophy": {
+    "files_scanned": 1271,
+    "top_ext": [
+      [
+        ".dot",
+        498
+      ],
+      [
+        ".html",
+        216
+      ],
+      [
+        ".js",
+        184
+      ],
+      [
+        ".tex",
+        163
+      ],
+      [
+        ".xml",
+        104
+      ],
+      [
+        ".md",
+        44
+      ],
+      [
+        ".py",
+        28
+      ],
+      [
+        "(none)",
+        11
+      ]
+    ],
+    "marker_files": {
+      "stub": 14,
+      "rbac": 11,
+      "approval": 1,
+      "accounting": 2,
+      "jwt": 1
+    },
+    "examples": {
+      "stub": [
+        "modules/core/src/integral_philosophy_core/utils/extract_bibliography.py",
+        "modules/docs/docs/PROGRESS_REPORT.md",
+        "modules/docs/docs/docs/api/html/menu.js",
+        "modules/docs/docs/docs/api/html/d4/d58/_regex_8hs_source.html",
+        "modules/docs/docs/docs/api/html/d4/dea/extract__bibliography_8py_source.html"
+      ],
+      "rbac": [
+        "modules/docs/docs/DEPLOYMENT_GUIDE.md",
+        "modules/docs/docs/VALIDATION_SYSTEM_REPORT.md",
+        "modules/docs/docs/VENV_SETUP.md",
+        "modules/docs/docs/WEB_INTERFACE_GUIDE.md",
+        "modules/docs/docs/docs/api/html/clipboard.js"
+      ],
+      "approval": [
+        "modules/docs/docs/MAKEFILE-CHEATSHEET.md"
+      ],
+      "accounting": [
+        "modules/docs/docs/PROGRESS_REPORT.md",
+        "modules/docs/docs/VALIDATION_SYSTEM_REPORT.md"
+      ],
+      "jwt": [
+        "modules/web/README.md"
+      ]
+    }
+  },
+  "surypus_surypus": {
+    "files_scanned": 11500,
+    "top_ext": [
+      [
+        ".md",
+        5625
+      ],
+      [
+        ".cjs",
+        2668
+      ],
+      [
+        ".sql",
+        894
+      ],
+      [
+        ".html",
+        791
+      ],
+      [
+        ".hs",
+        475
+      ],
+      [
+        ".json",
+        315
+      ],
+      [
+        ".js",
+        240
+      ],
+      [
+        ".yml",
+        110
+      ]
+    ],
+    "marker_files": {
+      "jwt": 622,
+      "rbac": 1131,
+      "accounting": 829,
+      "approval": 839,
+      "stub": 1796,
+      "tenant": 208,
+      "eventstore": 1458,
+      "idempotency": 1025
+    },
+    "examples": {
+      "jwt": [
+        ".env.example",
+        "API_DOCUMENTATION.md",
+        "ARCHITECTURE.md",
+        "AUTONOMOUS_PLAN.md",
+        "CHANGELOG.md"
+      ],
+      "rbac": [
+        ".env.example",
+        "AGENTS.md",
+        "ARCHITECTURE.md",
+        "AUTONOMOUS_PLAN.md",
+        "CHANGELOG.md"
+      ],
+      "accounting": [
+        "AGENTS.md",
+        "API_DOCUMENTATION.md",
+        "ARCHITECTURE.md",
+        "AUTONOMOUS_PLAN.md",
+        "EXPECTATIONS.md"
+      ],
+      "approval": [
+        "AGENTS.md",
+        "CODE_REVIEW_GUIDELINES.md",
+        "GOVERNANCE.md",
+        "IMPLEMENTATION_PLAN.md",
+        "SECURITY_BEST_PRACTICES.md"
+      ],
+      "stub": [
+        "API_DOCUMENTATION.md",
+        "AUTONOMOUS_PLAN.md",
+        "CODE_REVIEW_GUIDELINES.md",
+        "CONTRIBUTING_SECURITY_CHECKLIST.md",
+        "IMPLEMENTATION_PLAN.md"
+      ],
+      "tenant": [
+        "API_DOCUMENTATION.md",
+        "IMPLEMENTATION_PLAN.md",
+        "REFACTORING_SUMMARY.md",
+        ".hie/Surypus/API/CRM.hie",
+        ".planning/STATE.md"
+      ],
+      "eventstore": [
+        "ARCHITECTURE.md",
+        "AUTONOMOUS_PLAN.md",
+        "IMPLEMENTATION_PLAN.md",
+        "Makefile",
+        "PLANNING.md"
+      ],
+      "idempotency": [
+        "AUTONOMOUS_PLAN.md",
+        "IMPLEMENTATION_PLAN.md",
+        "README.md",
+        "gsd-file-manifest.json",
+        "issue-export.jsonl"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+project:
+  id: uaw
+  name: Unified Agentic Workspace
+  domain: agentic
+  system: S2
+  status: ACTIVE
+  priority: P0
+  repository: [dominicusin/uaw]
+  owner: dominicusin
+  objective: Policy-governed agent execution framework
+  milestones: [{id: persistent-state, status: READY}]
+  dependencies: [GitHub, Linear, Notion]
+  risks: [JSON state without transactions, no idempotency, mock adapters]
+  completion: {build: required, unit_tests: required, integration_tests: required, security_review: required}
+  evidence: {test_files: 10, limitation: JSON state in core/state_manager.py}
+  external_dependencies: [Linear, Notion]

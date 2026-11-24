@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "priority",
+    "status",
+    "acceptance"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "priority": {
+      "enum": [
+        "P0",
+        "P1",
+        "P2",
+        "P3"
+      ]
+    },
+    "status": {
+      "enum": [
+        "READY",
+        "ACTIVE",
+        "BLOCKED",
+        "VERIFY",
+        "DONE"
+      ]
+    },
+    "acceptance": {
+      "type": "string"
+    },
+    "evidence": {
+      "type": "string"
+    }
+  }
+}

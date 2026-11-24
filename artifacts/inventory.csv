@@ -1,0 +1,79 @@
+repo,org,system,language,size_kb,updated,archived,fork,open_issues,license,disposition,description
+surypus/.github,surypus,S1 Surypus ERP/CRM,,3,2026-09-04,False,False,0,,KEEP — supporting,Organization profile
+surypus/.github-private,surypus,S1 Surypus ERP/CRM,,1,2026-09-04,False,False,0,,KEEP — supporting,Private org-level automation and config
+surypus/Ergonomicguiforerpcrm,surypus,S1 Surypus ERP/CRM,TypeScript,125,2026-09-04,False,False,0,Unlicense,FIX metadata or MERGE,Ergonomicguiforerpcrm — utility repository in the dominicusin ecosystem.
+surypus/demo-repository,surypus,S1 Surypus ERP/CRM,HTML,2,2026-09-03,False,False,0,,ARCHIVE — demo junk,A code repository designed to show the best GitHub has to offer.
+surypus/surypus,surypus,S1 Surypus ERP/CRM,JavaScript,44916,2026-10-30,False,False,129,MPL-2.0,KEEP — primary,"Surypus ERP/CRM - Haskell implementation with formal verification, type-safe database, and event sourcing"
+surypus/surypus.github.io,surypus,S1 Surypus ERP/CRM,HTML,114,2026-10-11,False,False,0,,KEEP — supporting,Organization website for Surypus
+dominicusin/AllUnitySitemap,dominicusin,S2 NeoAllUnity publishing,TypeScript,1041,2026-08-27,False,False,11,Unlicense,CONSOLIDATE / DECIDE,Sitemap generator web app (React + TypeScript + Drizzle ORM) built on Replit — AllUnity project tooling.
+dominicusin/neoallunity,dominicusin,S2 NeoAllUnity publishing,CSS,7194,2026-08-27,False,False,1,Unlicense,CONSOLIDATE / DECIDE,Config files for my GitHub profile.
+neoallunity/.github,neoallunity,S2 NeoAllUnity publishing,,5,2026-08-25,False,True,0,MIT,FORK — set upstream policy,.github 
+neoallunity/.github-private,neoallunity,S2 NeoAllUnity publishing,,12,2026-08-27,False,False,0,Unlicense,FIX metadata or MERGE,.github-private — utility repository in the dominicusin ecosystem.
+neoallunity/Magazine,neoallunity,S2 NeoAllUnity publishing,Python,15325,2026-08-27,False,False,0,LGPL-2.1,CONSOLIDATE / DECIDE,Magazine
+neoallunity/README,neoallunity,S2 NeoAllUnity publishing,,5,2026-08-27,False,False,0,Unlicense,KEEP — supporting,README and governance for NeoAllUnity organization
+neoallunity/allunity-diskussii,neoallunity,S2 NeoAllUnity publishing,HTML,172670,2026-08-27,False,False,0,,KEEP — supporting,media mirror
+neoallunity/allunity-divio,neoallunity,S2 NeoAllUnity publishing,Python,18,2026-08-31,False,False,0,BSD-3-Clause,CONSOLIDATE / DECIDE,allunity-divio
+neoallunity/allunity-knigi,neoallunity,S2 NeoAllUnity publishing,HTML,45553,2026-08-27,False,False,0,,KEEP — supporting,media mirror (books)
+neoallunity/allunity-wagtail,neoallunity,S2 NeoAllUnity publishing,Python,32187,2026-09-02,False,False,0,,KEEP — primary,"Wagtail rebuild of AllUnity.ru (refactor/redesign/reverse-engineering): page models, DRY templates, StreamField blocks, "
+neoallunity/allunity-zhurnaly,neoallunity,S2 NeoAllUnity publishing,HTML,46884,2026-08-27,False,False,0,,KEEP — supporting,media mirror (journals)
+neoallunity/demo-repository,neoallunity,S2 NeoAllUnity publishing,HTML,5,2026-08-27,True,False,0,Unlicense,ARCHIVE — demo junk,A code repository designed to show the best GitHub has to offer.
+neoallunity/integral-philosophy,neoallunity,S2 NeoAllUnity publishing,HTML,1405,2026-08-27,False,False,0,NOASSERTION,KEEP — primary,Complete modular academic publishing system with 8 focused subprojects
+neoallunity/integral-philosophy-cli,neoallunity,S2 NeoAllUnity publishing,,4,2026-08-25,True,False,0,Unlicense,KEEP archived (merged),[MONOREPO] Merged into neoallunity/integral-philosophy (modules/cli). Read-only.
+neoallunity/integral-philosophy-config,neoallunity,S2 NeoAllUnity publishing,,3,2026-08-25,True,False,0,Unlicense,KEEP archived (merged),[MONOREPO] Merged into neoallunity/integral-philosophy (modules/config). Read-only.
+neoallunity/integral-philosophy-content,neoallunity,S2 NeoAllUnity publishing,,3,2026-08-25,True,False,0,Unlicense,KEEP archived (merged),[MONOREPO] Merged into neoallunity/integral-philosophy (modules/content). Read-only.
+neoallunity/integral-philosophy-core,neoallunity,S2 NeoAllUnity publishing,Python,96,2026-08-25,True,False,0,Unlicense,KEEP archived (merged),[MONOREPO] Merged into neoallunity/integral-philosophy (modules/core). Read-only.
+neoallunity/integral-philosophy-deploy,neoallunity,S2 NeoAllUnity publishing,,3,2026-08-25,True,False,0,Unlicense,KEEP archived (merged),[MONOREPO] Merged into neoallunity/integral-philosophy (modules/deploy). Read-only.
+neoallunity/integral-philosophy-docs,neoallunity,S2 NeoAllUnity publishing,,1276,2026-08-25,True,False,0,Unlicense,KEEP archived (merged),[MONOREPO] Merged into neoallunity/integral-philosophy (modules/docs). Read-only.
+neoallunity/integral-philosophy-tests,neoallunity,S2 NeoAllUnity publishing,,3,2026-08-25,True,False,0,Unlicense,KEEP archived (merged),[MONOREPO] Merged into neoallunity/integral-philosophy (modules/tests). Read-only.
+neoallunity/integral-philosophy-web,neoallunity,S2 NeoAllUnity publishing,Python,20,2026-08-25,True,False,0,Unlicense,KEEP archived (merged),[MONOREPO] Merged into neoallunity/integral-philosophy (modules/web). Read-only.
+neoallunity/neoallunity,neoallunity,S2 NeoAllUnity publishing,Python,22158,2026-08-27,False,False,8,Unlicense,CONSOLIDATE / DECIDE,Config files for my GitHub profile.
+neoallunity/web-capture-pal,neoallunity,S2 NeoAllUnity publishing,TypeScript,1232,2026-08-27,False,False,0,Unlicense,FIX metadata or MERGE,web-capture-pal — utility repository in the dominicusin ecosystem.
+dominicusin/DokanCloudFS,dominicusin,S3 Infra & ops,C#,18455,2026-08-27,False,True,0,MIT,FORK — set upstream policy,A virtual filesystem for various publicly accessible Cloud storage services on the Microsoft Windows platform.
+dominicusin/How-To-Secure-A-Linux-Server-With-Ansible,dominicusin,S3 Infra & ops,Jinja,60,2026-08-27,False,True,0,CC-BY-SA-4.0,FORK — set upstream policy,Ansible  Linux Serv
+dominicusin/Linux-Serv-Ansible,dominicusin,S3 Infra & ops,Haskell,15522,2026-11-08,False,False,0,CC-BY-SA-4.0,KEEP — primary,Ansible playbooks for Linux server hardening and optimization
+dominicusin/Quasar,dominicusin,S3 Infra & ops,Nix,133,2026-08-27,False,False,0,Unlicense,FIX metadata or MERGE,Quasar — utility repository in the dominicusin ecosystem.
+dominicusin/alpine-wdmch-builder,dominicusin,S3 Infra & ops,Shell,40757,2026-10-06,False,False,0,MIT,KEEP — primary,USB Rescue Boot image for WD My Cloud Home (RTD1295)
+dominicusin/chocolatey-packages,dominicusin,S3 Infra & ops,,15,2026-08-27,False,False,0,GPL-3.0,KEEP — supporting,chocolatey packages
+dominicusin/fidogate,dominicusin,S3 Infra & ops,C,5274,2026-08-27,False,True,0,GPL-2.0,FORK — set upstream policy,FidoGate
+dominicusin/gsi-x6812b,dominicusin,S3 Infra & ops,Shell,78,2026-10-09,False,False,0,MIT,KEEP — supporting,"TrebleDroid Android 16 GSI build config for Infinix Hot 12i (X6812B, MT6769H) — overlays, patches, Soong prebuilt APKs, "
+dominicusin/guix-config,dominicusin,S3 Infra & ops,Scheme,31,2026-08-27,False,False,0,Unlicense,CONSOLIDATE / DECIDE,Guix System configuration for Quasar (LVM+btrfs).
+dominicusin/my-nixos-config,dominicusin,S3 Infra & ops,Nix,951,2026-08-27,False,False,0,Unlicense,CONSOLIDATE / DECIDE,my nixos config
+dominicusin/nixos-config,dominicusin,S3 Infra & ops,Nix,81,2026-08-27,False,False,0,Unlicense,CONSOLIDATE / DECIDE,My NixOS configuration files
+dominicusin/onionshare,dominicusin,S3 Infra & ops,Python,40012,2026-08-27,False,True,3,NOASSERTION,FORK — set upstream policy,Securely and anonymously share a file of any size
+dominicusin/package-maximizer,dominicusin,S3 Infra & ops,Python,614,2026-10-22,False,False,3,MIT,KEEP — primary,Модульная система для максимизации непротиворечивого множества пакетов
+dominicusin/shadowbroker,dominicusin,S3 Infra & ops,Python,182472,2026-08-27,False,True,0,,FORK — set upstream policy,"The Shadow Brokers ""Lost In Translation"" leak "
+dominicusin/zapret,dominicusin,S3 Infra & ops,C,21419,2026-08-27,False,True,0,,FORK — set upstream policy,Обход DPI в linux
+dominicusin/zfs-win,dominicusin,S3 Infra & ops,C++,178,2026-08-27,False,False,0,Unlicense,KEEP — supporting,Automatically exported from code.google.com/p/zfs-win
+dominicusin/.github,dominicusin,S4 Site & knowledge,Jupyter Notebook,384,2026-08-27,False,False,0,MIT,KEEP — supporting,.github 
+dominicusin/Awesome-CV,dominicusin,S4 Site & knowledge,TeX,1993,2026-08-27,False,False,0,Unlicense,CONSOLIDATE / DECIDE,CV
+dominicusin/Layerstructureforfigma,dominicusin,S4 Site & knowledge,TypeScript,82,2026-08-27,False,False,0,Unlicense,FIX metadata or MERGE,Layerstructureforfigma — utility repository in the dominicusin ecosystem.
+dominicusin/Modern-Simple-CV,dominicusin,S4 Site & knowledge,TeX,222,2026-08-27,False,False,0,Unlicense,FIX metadata or MERGE,Modern-Simple-CV — utility repository in the dominicusin ecosystem.
+dominicusin/academicpages.github.io,dominicusin,S4 Site & knowledge,,51452,2026-08-25,True,False,0,MIT,REVIEW archive (keep historical),"Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes [STUB — inactive]"
+dominicusin/astro-experiment,dominicusin,S4 Site & knowledge,Astro,1302,2026-09-08,False,False,1,,KEEP — supporting,Astro experiment for dominicusin.github.io
+dominicusin/docs,dominicusin,S4 Site & knowledge,MDX,354,2026-08-25,True,False,0,MIT,REVIEW archive (keep historical),"Documentation site sources: API reference, AI tools guides, quickstart (MDX-based docs starter). [STUB — inactive]"
+dominicusin/dominicusin,dominicusin,S4 Site & knowledge,,12426,2026-11-12,False,False,0,Unlicense,KEEP — supporting,special repo
+dominicusin/dominicusin.dev-portfolio,dominicusin,S4 Site & knowledge,TypeScript,144,2026-08-27,False,False,0,Unlicense,FIX metadata or MERGE,dominicusin.dev-portfolio — utility repository in the dominicusin ecosystem.
+dominicusin/dominicusin.github.io,dominicusin,S4 Site & knowledge,JavaScript,67347,2026-10-23,False,False,10,MIT,KEEP — primary,Domini's site
+dominicusin/miniature-succotash,dominicusin,S4 Site & knowledge,TeX,1114,2026-08-25,True,False,0,MIT,REVIEW archive (keep historical),miniature-succotash [STUB — inactive]
+dominicusin/pmo-solovyov-article,dominicusin,S4 Site & knowledge,TeX,50,2026-08-27,False,False,0,Unlicense,KEEP — supporting,опыт применения формального аппарата к литературно-критическому дискурсу
+dominicusin/resume,dominicusin,S4 Site & knowledge,TeX,22,2026-08-27,False,False,0,Unlicense,CONSOLIDATE / DECIDE,CV
+dominicusin/vite-react,dominicusin,S4 Site & knowledge,CSS,9,2026-08-27,False,False,0,Unlicense,FIX metadata or MERGE,vite-react — utility repository in the dominicusin ecosystem.
+dominicusin/webring,dominicusin,S4 Site & knowledge,Nunjucks,623,2026-08-27,False,False,2,MIT,KEEP — supporting,Webring starter kit (Eleventy + Netlify) forked for personal ring experiments.
+dominicusin/website-optimization,dominicusin,S4 Site & knowledge,TypeScript,101,2026-08-27,False,False,0,MIT,FIX metadata or MERGE,website-optimization — utility repository in the dominicusin ecosystem.
+dominicusin/MessageGateway,dominicusin,S5 R&D / Haskell,Haskell,27,2026-10-18,False,False,0,,CONSOLIDATE / DECIDE,Message Gateway — universal message bridge on Haskell
+dominicusin/ai-orchestration-platform,dominicusin,S5 R&D / Haskell,Python,651,2026-08-27,False,False,0,Unlicense,CONSOLIDATE / DECIDE,Comprehensive AI Orchestration Platform with 925+ tests
+dominicusin/carma-public,dominicusin,S5 R&D / Haskell,Haskell,13496,2026-08-27,False,True,6,,FORK — set upstream policy,
+dominicusin/polyresolver,dominicusin,S5 R&D / Haskell,Haskell,771,2026-10-19,False,False,0,NOASSERTION,CONSOLIDATE / DECIDE,Polyresolver: decentralized DNS resolution framework for Rust/Haskell
+dominicusin/spring-fleet-sapphire-monarch,dominicusin,S5 R&D / Haskell,JavaScript,1218,2026-10-19,False,False,0,,KEEP — supporting,
+dominicusin/uaw,dominicusin,S5 R&D / Haskell,Python,330,2026-10-20,False,False,1,,KEEP — supporting,uaw
+dominicusin/AppCenter,dominicusin,S6 Other,,3,2026-08-25,True,False,0,Unlicense,REVIEW archive (keep historical),Personal app center notes and planning (stub). [STUB — inactive]
+dominicusin/ConsoleApp1,dominicusin,S6 Other,F#,6,2026-08-27,True,False,0,Unlicense,REVIEW archive (keep historical),ConsoleApp1 — utility repository in the dominicusin ecosystem.
+dominicusin/cautious-carnival,dominicusin,S6 Other,,14,2026-08-25,True,False,0,GPL-3.0,REVIEW archive (keep historical),carnival  of The imortals [STUB — inactive]
+dominicusin/deepsite-locally,dominicusin,S6 Other,TypeScript,1057,2026-08-27,False,True,10,,FORK — set upstream policy,DeepSite — AI website builder with local hosting support. Run DeepSite on your own server or offline.
+dominicusin/desktop-tutorial,dominicusin,S6 Other,,1,2026-08-27,True,False,0,Unlicense,REVIEW archive (keep historical),GitHub Desktop tutorial repository
+dominicusin/fudforum,dominicusin,S6 Other,,2,2026-08-25,True,False,0,Unlicense,REVIEW archive (keep historical),"FUDforum forum engine deployment playground (empty stub, reserved). [STUB — inactive]"
+dominicusin/hugo-quickstart,dominicusin,S6 Other,HTML,212,2026-08-25,True,False,2,MIT,REVIEW archive (keep historical),Hugo site quickstart sandbox for experiments with themes and builds. [STUB — inactive]
+dominicusin/mydocs,dominicusin,S6 Other,Python,7,2026-08-25,True,False,0,Unlicense,REVIEW archive (keep historical),docs test [STUB — inactive]
+dominicusin/preview,dominicusin,S6 Other,TypeScript,125,2026-08-25,True,False,1,Unlicense,REVIEW archive (keep historical),preview [STUB — inactive]
+dominicusin/rails_sample_app,dominicusin,S6 Other,Ruby,294,2026-08-27,False,True,0,NOASSERTION,FORK — set upstream policy,Fork from https://bitbucket.org/railstutorial/sample_app_4th_ed.git
+dominicusin/trackerslist,dominicusin,S6 Other,,7295,2026-09-08,True,True,0,GPL-2.0,REVIEW archive (keep historical),DUPLICATED → moved to transgregorial org. Canonical: transgregorial/trackerslist

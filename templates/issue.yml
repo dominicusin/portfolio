@@ -1,0 +1,19 @@
+name: Portfolio task
+description: Task with explicit system, priority and acceptance criteria
+body:
+  - type: input
+    id: system
+    attributes:
+      label: System (S1..S8)
+    validations: {required: true}
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options: [P0, P1, P2, P3]
+    validations: {required: true}
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria / evidence
+    validations: {required: true}

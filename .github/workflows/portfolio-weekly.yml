@@ -1,0 +1,21 @@
+name: Portfolio weekly report
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate report (no issue spam)
+        run: python automation/weekly_report.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: portfolio-weekly
+          path: reports/

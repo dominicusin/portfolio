@@ -1,0 +1,14 @@
+project:
+  id: ftn
+  name: FTN / messaging
+  domain: networking
+  system: S5
+  status: SPEC
+  priority: P1
+  repository: [dominicusin/MessageGateway, dominicusin/fidogate, dominicusin/polyresolver]
+  owner: dominicusin
+  objective: Reliable FTN/NNTP gateway and routing
+  milestones: [{id: gateway-stability, status: READY}]
+  dependencies: [Husky/HPT, binkd, INN2]
+  risks: [MessageGateway has no README/LICENSE, polyresolver pseudo-license]
+  completion: {build: required, integration_tests: required}

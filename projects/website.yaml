@@ -1,0 +1,15 @@
+project:
+  id: website
+  name: Personal site and knowledge portal
+  domain: web
+  system: S6
+  status: ACTIVE
+  priority: P1
+  repository: [dominicusin/dominicusin.github.io]
+  owner: dominicusin
+  objective: Public interface of the portfolio
+  milestones: [{id: green-required-checks, status: BLOCKED}]
+  dependencies: [Hugo 0.164, Blowfish submodule, GitHub Pages]
+  risks: [SBOM attestation permission, 100 code scanning alerts]
+  completion: {build: required, security_review: required}
+  external_dependencies: [DOM-6, DOM-7]

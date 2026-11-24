@@ -1,0 +1,21 @@
+name: CI health check
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: gh CLI available
+        run: gh --version
+      - name: CI health
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python automation/ci_health.py

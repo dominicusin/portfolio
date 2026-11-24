@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "project"
+  ],
+  "properties": {
+    "project": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "system",
+        "status",
+        "priority",
+        "repository",
+        "owner",
+        "objective",
+        "completion"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "domain": {
+          "type": "string"
+        },
+        "system": {
+          "type": "string"
+        },
+        "status": {
+          "enum": [
+            "DISCOVERY",
+            "SPEC",
+            "READY",
+            "ACTIVE",
+            "BLOCKED",
+            "VERIFY",
+            "RELEASE",
+            "MAINTENANCE",
+            "ARCHIVED"
+          ]
+        },
+        "priority": {
+          "enum": [
+            "P0",
+            "P1",
+            "P2",
+            "P3"
+          ]
+        },
+        "repository": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "owner": {
+          "type": "string"
+        },
+        "objective": {
+          "type": "string"
+        },
+        "milestones": {
+          "type": "array"
+        },
+        "dependencies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "risks": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "completion": {
+          "type": "object"
+        },
+        "evidence": {
+          "type": "object"
+        },
+        "external_dependencies": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

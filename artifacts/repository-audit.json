@@ -1,0 +1,3276 @@
+[
+  {
+    "repo": "dominicusin/.github",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 3,
+    "branches": [
+      "создание-readme-f1b07",
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 10,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "ffdacc7",
+      "date": "2026-08-27T01:11:01Z",
+      "message": "chore: add inherited PR template"
+    },
+    "manifest_files": [],
+    "file_count": 17,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "github",
+      "meta",
+      "profile"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 384,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-08-27T01:11:03Z",
+    "description": ".github ",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/academicpages.github.io",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 4,
+    "branches": [
+      "fix-teaching",
+      "gh-pages",
+      "master",
+      "read-more"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 17,
+    "latest_commit": {
+      "sha": "25c30de",
+      "date": "2019-06-17T14:33:05Z",
+      "message": "Merge pull request #241 from cifkao/master\\n\\nFix sidebar icons"
+    },
+    "manifest_files": [
+      "Gemfile",
+      "package.json"
+    ],
+    "file_count": 340,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "academic-website",
+      "cv",
+      "github-pages",
+      "jekyll"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 51452,
+    "language": null,
+    "updated_at": "2026-08-25T17:30:30Z",
+    "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes [STUB — inactive]",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/ai-orchestration-platform",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": true,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "6d897c5",
+      "date": "2026-08-27T01:07:54Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "Dockerfile",
+      "Dockerfile.prod",
+      "docker-compose.prod.yml",
+      "docker-compose.yml",
+      "pyproject.toml"
+    ],
+    "file_count": 458,
+    "workflow_count": 1,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "ai",
+      "code-conversion",
+      "haskell",
+      "llm",
+      "pipeline",
+      "python"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 651,
+    "language": "Python",
+    "updated_at": "2026-08-27T01:08:22Z",
+    "description": "Comprehensive AI Orchestration Platform with 925+ tests",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/AllUnitySitemap",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 13,
+    "branches": [
+      "dependabot/npm_and_yarn/babel/core-7.29.7",
+      "dependabot/npm_and_yarn/npm_and_yarn-50b6714504",
+      "dependabot/npm_and_yarn/rollup-4.63.0",
+      "dependabot/npm_and_yarn/yaml-2.9.0",
+      "gh-pages",
+      "main",
+      "snyk-fix-29871d57385427e58aa2b4122e4885bb",
+      "snyk-fix-bddfa60b8199cee167eecd5ee2e6541c",
+      "snyk-upgrade-9e4fff1f83a201499b61cd08179c40bc",
+      "snyk-upgrade-76dfcaceef4510b2bc612f23876bf86a",
+      "snyk-upgrade-80acd510d9551255c6fedb6a972e31bd",
+      "snyk-upgrade-582dde83d6311dfe59aa76a7faad947b",
+      "snyk-upgrade-a5bb98e626ed570a5fa51761654e6b3e"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 56,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "879d575",
+      "date": "2026-08-27T01:07:56Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 106,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "drizzle-orm",
+      "react",
+      "replit",
+      "sitemap",
+      "typescript"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 1041,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T01:08:23Z",
+    "description": "Sitemap generator web app (React + TypeScript + Drizzle ORM) built on Replit — AllUnity project tooling.",
+    "open_issues_count": 11
+  },
+  {
+    "repo": "dominicusin/alpine-wdmch-builder",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "v3.21.8-15",
+      "date": "2026-09-30T23:06:49Z"
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 100,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "0ef5848",
+      "date": "2026-10-06T17:45:47Z",
+      "message": "Fix ROADMAP defect table: reorder rows, merge unnumbered defect, remove duplicate\\n\\nThe defect table had drifted out of"
+    },
+    "manifest_files": [],
+    "file_count": 124,
+    "workflow_count": 3,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 40757,
+    "language": "Shell",
+    "updated_at": "2026-10-06T17:45:53Z",
+    "description": "USB Rescue Boot image for WD My Cloud Home (RTD1295)",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/AppCenter",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "c08bc4b",
+      "date": "2026-08-25T11:35:24Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [],
+    "file_count": 2,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "notes",
+      "planning",
+      "stub"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 3,
+    "language": null,
+    "updated_at": "2026-08-25T17:30:18Z",
+    "description": "Personal app center notes and planning (stub). [STUB — inactive]",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/astro-experiment",
+    "org": "dominicusin",
+    "default_branch": "astro-experiment",
+    "branch_count": 2,
+    "branches": [
+      "astro-experiment",
+      "dependabot/npm_and_yarn/npm_and_yarn-44419e479e"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 18,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 7,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "bbe6f7c",
+      "date": "2026-09-08T13:02:29Z",
+      "message": "fix: use post.id for links + BASE_URL for favicon/manifest"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 228,
+    "workflow_count": 1,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 1302,
+    "language": "Astro",
+    "updated_at": "2026-09-08T13:04:38Z",
+    "description": "Astro experiment for dominicusin.github.io",
+    "open_issues_count": 1
+  },
+  {
+    "repo": "dominicusin/Awesome-CV",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 3,
+    "branches": [
+      "gh-pages",
+      "main",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "bc38dbf",
+      "date": "2026-08-27T01:07:57Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 42,
+    "workflow_count": 1,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "cv",
+      "latex",
+      "resume",
+      "template"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 1993,
+    "language": "TeX",
+    "updated_at": "2026-08-27T01:08:58Z",
+    "description": "CV",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/carma-public",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 13,
+    "branches": [
+      "bmw",
+      "dependabot/npm_and_yarn/srv/npm_and_yarn-27dfa38447",
+      "diag-tree",
+      "m53-avarcom-tasks",
+      "master",
+      "production",
+      "rc",
+      "redirect-screen",
+      "snyk-upgrade-9b33a42643e7fd197d3162ef0dc1e715",
+      "snyk-upgrade-11def095d7231c365a7ee8567443da03",
+      "snyk-upgrade-25f9939632dfddab550a017d2365e555",
+      "snyk-upgrade-a13f7fc5547cee8e20c0fd137f26c532",
+      "snyk-upgrade-c4cba5e1e221d0e38e1a75fe3e2453c0"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 100,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 14,
+    "latest_commit": {
+      "sha": "bd4dd78",
+      "date": "2026-08-27T00:50:45Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [
+      "Dockerfile",
+      "carma-dict.cabal",
+      "carma-http.cabal",
+      "carma-mobile-server.cabal",
+      "caroperator-svc.cabal",
+      "package-lock.json",
+      "package.json",
+      "role-clusters.cabal",
+      "sagai-exporter.cabal",
+      "stack.yaml"
+    ],
+    "file_count": 1414,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 13496,
+    "language": "Haskell",
+    "updated_at": "2026-08-27T00:57:07Z",
+    "description": null,
+    "open_issues_count": 6
+  },
+  {
+    "repo": "dominicusin/cautious-carnival",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "084d670",
+      "date": "2017-06-09T12:13:49Z",
+      "message": "Initial commit"
+    },
+    "manifest_files": [],
+    "file_count": 3,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "imortal"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 14,
+    "language": null,
+    "updated_at": "2026-08-25T17:30:29Z",
+    "description": "carnival  of The imortals [STUB — inactive]",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/chocolatey-packages",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 3,
+    "branches": [
+      "gh-pages",
+      "main",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "4d66979",
+      "date": "2026-08-27T00:50:46Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [],
+    "file_count": 5,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "chocolatey",
+      "package-management",
+      "windows"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 15,
+    "language": null,
+    "updated_at": "2026-08-27T00:50:53Z",
+    "description": "chocolatey packages",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/ConsoleApp1",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "main",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 3,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "57cdfd7",
+      "date": "2026-08-27T01:08:51Z",
+      "message": "docs: add README (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 10,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 6,
+    "language": "F#",
+    "updated_at": "2026-08-27T01:33:01Z",
+    "description": "ConsoleApp1 — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/deepsite-locally",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 11,
+    "branches": [
+      "dependabot/npm_and_yarn/npm_and_yarn-34a1b1d4a8",
+      "main",
+      "snyk-fix-04887b272ad1ffffab62ffee5b1728f9",
+      "snyk-fix-bc5f345613d9073e677b987af13c0aa0",
+      "snyk-fix-d1ed4073a8903af3d8a3ac20a9fce2f9",
+      "snyk-fix-e4d9ba7bffff7c3bf44616407e8c5b7b",
+      "snyk-upgrade-0f6cd3003afdefcdfa8257f7e11e5ba5",
+      "snyk-upgrade-27cd6b2b3e26079c2c4ba939ce3991e6",
+      "snyk-upgrade-44ced92c6de903598a6e3d35c0ac945b",
+      "snyk-upgrade-0508334b88cdaab8cac94f2d62876c9f",
+      "snyk-upgrade-a26549222364e6c65abb6a211f6a4bec"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 100,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 3,
+    "latest_commit": {
+      "sha": "1101364",
+      "date": "2026-08-27T00:49:28Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [
+      "Dockerfile",
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 112,
+    "workflow_count": 2,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 1057,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T00:49:32Z",
+    "description": "DeepSite — AI website builder with local hosting support. Run DeepSite on your own server or offline.",
+    "open_issues_count": 10
+  },
+  {
+    "repo": "dominicusin/desktop-tutorial",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "5008d9c",
+      "date": "2026-08-27T01:08:00Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 4,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 1,
+    "language": null,
+    "updated_at": "2026-08-27T01:32:59Z",
+    "description": "GitHub Desktop tutorial repository",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/docs",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "42ba8d7",
+      "date": "2025-10-16T19:50:20Z",
+      "message": "Initial commit"
+    },
+    "manifest_files": [],
+    "file_count": 35,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "api-reference",
+      "documentation",
+      "mdx"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 354,
+    "language": "MDX",
+    "updated_at": "2026-08-25T17:30:26Z",
+    "description": "Documentation site sources: API reference, AI tools guides, quickstart (MDX-based docs starter). [STUB — inactive]",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/DokanCloudFS",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 4,
+    "branches": [
+      "codeanalysis",
+      "develop",
+      "master",
+      "troubleshoot"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 9,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 4,
+    "latest_commit": {
+      "sha": "6ece86e",
+      "date": "2026-08-27T00:50:42Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [],
+    "file_count": 144,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 18455,
+    "language": "C#",
+    "updated_at": "2026-08-27T00:50:47Z",
+    "description": "A virtual filesystem for various publicly accessible Cloud storage services on the Microsoft Windows platform.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/dominicusin",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 100,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "5d45d78",
+      "date": "2026-11-24T03:52:28Z",
+      "message": "generated"
+    },
+    "manifest_files": [],
+    "file_count": 26,
+    "workflow_count": 2,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "github-profile",
+      "profile-readme"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 12426,
+    "language": null,
+    "updated_at": "2026-11-12T00:11:14Z",
+    "description": "special repo",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/dominicusin.dev-portfolio",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 2,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "a234ea2",
+      "date": "2026-08-27T01:08:03Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "package.json"
+    ],
+    "file_count": 97,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 144,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T01:08:58Z",
+    "description": "dominicusin.dev-portfolio — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/dominicusin.github.io",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 9,
+    "branches": [
+      "bot/awesome-maintenance",
+      "dependabot/github_actions/ossf/scorecard-action-2.6.0",
+      "dependabot/npm_and_yarn/development-dependencies-00349be6cb",
+      "dependabot/npm_and_yarn/follow-redirects-1.16.1",
+      "dependabot/npm_and_yarn/multi-1b5369d045",
+      "dependabot/npm_and_yarn/multi-9551d5d61c",
+      "dependabot/npm_and_yarn/production-dependencies-772d8c30cc",
+      "dependabot/npm_and_yarn/scripts/js-yaml-5.5.0",
+      "main"
+    ],
+    "protected": true,
+    "latest_release": {
+      "tag": "v0",
+      "date": "2025-10-20T21:44:46Z"
+    },
+    "open_dependabot_alerts": 18,
+    "open_code_scanning_alerts": 100,
+    "commits_90d_cap100": 100,
+    "contributors_cap100": 7,
+    "latest_commit": {
+      "sha": "0732e58",
+      "date": "2026-10-23T16:59:00Z",
+      "message": "fix(a11y): align Blowfish search aria-label with shortcut hint (#451)\\n\\n* fix(i18n): override Blowfish Russian search l"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 800,
+    "workflow_count": 27,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "githubpages",
+      "personal-site"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 67347,
+    "language": "JavaScript",
+    "updated_at": "2026-10-23T16:59:06Z",
+    "description": "Domini's site",
+    "open_issues_count": 10
+  },
+  {
+    "repo": "dominicusin/fidogate",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 20,
+    "branches": [
+      "alt",
+      "autotools",
+      "binary-test",
+      "cvsimport",
+      "debian",
+      "debian-old",
+      "local-patches",
+      "logger",
+      "master_autoreconf",
+      "master",
+      "refactoring/rfc2ftn",
+      "rfc",
+      "staging_autoreconf",
+      "staging",
+      "staging-bsd-autoreconf",
+      "staging-sav",
+      "tests",
+      "tests-devel",
+      "travis",
+      "utf-body-b64-qp"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 5,
+    "latest_commit": {
+      "sha": "b5ae01e",
+      "date": "2026-08-27T00:50:50Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [],
+    "file_count": 773,
+    "workflow_count": 3,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 5274,
+    "language": "C",
+    "updated_at": "2026-08-27T00:55:26Z",
+    "description": "FidoGate",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/fudforum",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "b7eec52",
+      "date": "2026-08-25T13:07:54Z",
+      "message": "docs: add repository README"
+    },
+    "manifest_files": [],
+    "file_count": 2,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "forum",
+      "fudforum",
+      "stub"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 2,
+    "language": null,
+    "updated_at": "2026-08-25T17:30:19Z",
+    "description": "FUDforum forum engine deployment playground (empty stub, reserved). [STUB — inactive]",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/gsi-x6812b",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 11,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "180958d",
+      "date": "2026-10-09T18:19:06Z",
+      "message": "fix: regenerate base.mk.patch with correct labels\\n\\nThe old patch was malformed (missing trailing newline) and used\\nun"
+    },
+    "manifest_files": [],
+    "file_count": 39,
+    "workflow_count": 1,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "android-16",
+      "aosp",
+      "generic-system-image",
+      "gsi",
+      "infinix",
+      "lineageos",
+      "mediatek",
+      "mt6769",
+      "phh-treble",
+      "trebledroid"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 78,
+    "language": "Shell",
+    "updated_at": "2026-10-09T18:19:12Z",
+    "description": "TrebleDroid Android 16 GSI build config for Infinix Hot 12i (X6812B, MT6769H) — overlays, patches, Soong prebuilt APKs, from-scratch guide. Text only, no blobs.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/guix-config",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "создание-readme-20821",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "62fb264",
+      "date": "2026-08-27T01:08:06Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 29,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 31,
+    "language": "Scheme",
+    "updated_at": "2026-08-27T01:08:11Z",
+    "description": "Guix System configuration for Quasar (LVM+btrfs).",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/How-To-Secure-A-Linux-Server-With-Ansible",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 5,
+    "latest_commit": {
+      "sha": "c3e7d8e",
+      "date": "2026-08-27T00:49:13Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [],
+    "file_count": 64,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 60,
+    "language": "Jinja",
+    "updated_at": "2026-08-27T00:49:18Z",
+    "description": "Ansible  Linux Serv",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/hugo-quickstart",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 4,
+    "branches": [
+      "dependabot/npm_and_yarn/npm_and_yarn-1b20a4c810",
+      "gh-pages",
+      "main",
+      "snyk-upgrade-0e70ede38c479223ddc49a142e30c292"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 4,
+    "latest_commit": {
+      "sha": "be61126",
+      "date": "2025-07-07T06:40:07Z",
+      "message": "Update dependency cypress to v14.5.1 (#29)\\n\\nCo-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 34,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "hugo",
+      "quickstart",
+      "static-site"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 212,
+    "language": "HTML",
+    "updated_at": "2026-08-25T17:30:24Z",
+    "description": "Hugo site quickstart sandbox for experiments with themes and builds. [STUB — inactive]",
+    "open_issues_count": 2
+  },
+  {
+    "repo": "dominicusin/Layerstructureforfigma",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 9,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "723aa43",
+      "date": "2026-08-27T01:08:07Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "package.json"
+    ],
+    "file_count": 89,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 82,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T01:09:00Z",
+    "description": "Layerstructureforfigma — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/Linux-Serv-Ansible",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 100,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "fc4d6a4",
+      "date": "2026-11-08T06:03:28Z",
+      "message": "ok"
+    },
+    "manifest_files": [
+      "requirements.txt"
+    ],
+    "file_count": 1113,
+    "workflow_count": 2,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 15522,
+    "language": "Haskell",
+    "updated_at": "2026-11-08T06:03:55Z",
+    "description": "Ansible playbooks for Linux server hardening and optimization",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/MessageGateway",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 1,
+    "branches": [
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 0,
+    "latest_commit": {
+      "sha": "ab6396c",
+      "date": "2026-10-18T04:08:15Z",
+      "message": "Initial commit: MessageGateway core model with property tests and spec"
+    },
+    "manifest_files": [
+      "cabal.project",
+      "mgw.cabal"
+    ],
+    "file_count": 12,
+    "workflow_count": 0,
+    "has_license_file": false,
+    "has_readme": false,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 27,
+    "language": "Haskell",
+    "updated_at": "2026-10-18T04:52:26Z",
+    "description": "Message Gateway — universal message bridge on Haskell",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/miniature-succotash",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 3,
+    "branches": [
+      "ayush1120",
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "c506894",
+      "date": "2025-12-14T02:56:20Z",
+      "message": "Initial commit"
+    },
+    "manifest_files": [],
+    "file_count": 8,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "demo",
+      "latex",
+      "tex"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 1114,
+    "language": "TeX",
+    "updated_at": "2026-08-25T17:30:21Z",
+    "description": "miniature-succotash [STUB — inactive]",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/Modern-Simple-CV",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 3,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "01e77af",
+      "date": "2026-08-27T01:08:53Z",
+      "message": "docs: add README (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 10,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 222,
+    "language": "TeX",
+    "updated_at": "2026-08-27T01:09:20Z",
+    "description": "Modern-Simple-CV — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/my-nixos-config",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "main",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "db57766",
+      "date": "2026-08-27T01:08:10Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 27,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "nixos-configuration"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 951,
+    "language": "Nix",
+    "updated_at": "2026-08-27T01:08:15Z",
+    "description": "my nixos config",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/mydocs",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "02380aa",
+      "date": "2026-08-25T11:35:33Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [
+      "pyproject.toml"
+    ],
+    "file_count": 13,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "documentation",
+      "python",
+      "sphinx",
+      "tutorial"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 7,
+    "language": "Python",
+    "updated_at": "2026-08-25T19:59:05Z",
+    "description": "docs test [STUB — inactive]",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/neoallunity",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 3,
+    "branches": [
+      "dependabot/npm_and_yarn/boiler/npm_and_yarn-035819ed7e",
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 66,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "d57f0bc",
+      "date": "2026-08-27T01:08:11Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "composer.json",
+      "package-lock.json",
+      "package.json",
+      "requirements.txt"
+    ],
+    "file_count": 920,
+    "workflow_count": 15,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "config",
+      "dotfiles",
+      "profile"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 7194,
+    "language": "CSS",
+    "updated_at": "2026-08-27T01:08:18Z",
+    "description": "Config files for my GitHub profile.",
+    "open_issues_count": 1
+  },
+  {
+    "repo": "dominicusin/nixos-config",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 3,
+    "branches": [
+      "gh-pages",
+      "main",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "1400706",
+      "date": "2026-08-27T01:08:13Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 26,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "configuration",
+      "infrastructure",
+      "nix",
+      "nixos"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 81,
+    "language": "Nix",
+    "updated_at": "2026-08-27T01:08:33Z",
+    "description": "My NixOS configuration files",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/onionshare",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 13,
+    "branches": [
+      "253-security-headers",
+      "285_systray_notifications",
+      "404_gui_tests",
+      "bundled-tor-error",
+      "dependabot/pip/cli/pip-63f2ad0f73",
+      "fix_stay_open",
+      "local-patches",
+      "master",
+      "screenshots",
+      "snyk-fix-ab8b96b6abf8e6c773ca774d91d86b88",
+      "snyk-fix-b2d17baccb480ce48f581c54c85fd9e7",
+      "snyk-fix-f041a075823666ebe2e10670d4702afa",
+      "tor-bundle-refactor"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 62,
+    "open_code_scanning_alerts": 0,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 100,
+    "latest_commit": {
+      "sha": "f442d7f",
+      "date": "2026-08-27T00:50:56Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [
+      "poetry.lock",
+      "pyproject.toml",
+      "setup.py"
+    ],
+    "file_count": 1439,
+    "workflow_count": 3,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 40012,
+    "language": "Python",
+    "updated_at": "2026-08-27T00:51:05Z",
+    "description": "Securely and anonymously share a file of any size",
+    "open_issues_count": 3
+  },
+  {
+    "repo": "dominicusin/package-maximizer",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 8,
+    "branches": [
+      "dependabot/github_actions/dot-github/workflows/github_actions-9b5c32f757",
+      "dependabot/github_actions/pypa/gh-action-pypi-publish-1.14.3",
+      "feat/max-consistent-package-set",
+      "feat/0.9.0-cli-propose",
+      "fix/phase1-solver-tests",
+      "fix/0.10.0-adapter-return",
+      "gh-pages",
+      "main"
+    ],
+    "protected": true,
+    "latest_release": {
+      "tag": "v0.21.0",
+      "date": "2026-09-08T04:30:23Z"
+    },
+    "open_dependabot_alerts": 2,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 100,
+    "contributors_cap100": 3,
+    "latest_commit": {
+      "sha": "982761c",
+      "date": "2026-10-22T02:06:32Z",
+      "message": "security(web): header-only API key; reject option-like package names with 400 (#108)\\n\\n* fix(security): reject option-l"
+    },
+    "manifest_files": [
+      "Dockerfile",
+      "pyproject.toml",
+      "requirements-core.txt",
+      "requirements-dev.txt",
+      "requirements-solvers.txt",
+      "requirements-web.txt",
+      "requirements.txt"
+    ],
+    "file_count": 170,
+    "workflow_count": 3,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "ilp",
+      "optimization",
+      "package-management",
+      "python",
+      "sat-solver",
+      "smt"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 614,
+    "language": "Python",
+    "updated_at": "2026-10-22T02:06:38Z",
+    "description": "Модульная система для максимизации непротиворечивого множества пакетов",
+    "open_issues_count": 3
+  },
+  {
+    "repo": "dominicusin/pmo-solovyov-article",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "build-3",
+      "date": "2026-08-27T01:09:59Z"
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "02658af",
+      "date": "2026-08-27T01:08:14Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 10,
+    "workflow_count": 1,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "article",
+      "latex",
+      "literary-criticism",
+      "russian"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 50,
+    "language": "TeX",
+    "updated_at": "2026-08-27T01:09:16Z",
+    "description": "опыт применения формального аппарата к литературно-критическому дискурсу",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/polyresolver",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 1,
+    "branches": [
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 15,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "2ee96fc",
+      "date": "2026-10-19T07:19:51Z",
+      "message": "feat(config): add adapter loading from YAML configuration\\n\\n- New Polyresolver.Config.Adapters module\\n- loadAdapters: "
+    },
+    "manifest_files": [
+      "cabal.project",
+      "polyresolver-adapter-darknet.cabal",
+      "polyresolver-adapter-decentweb.cabal",
+      "polyresolver-adapter-emerdns.cabal",
+      "polyresolver-adapter-ens.cabal",
+      "polyresolver-adapter-filter.cabal",
+      "polyresolver-adapter-hsd.cabal",
+      "polyresolver-adapter-i2p.cabal",
+      "polyresolver-adapter-mesh.cabal",
+      "polyresolver-adapter-ncdns.cabal",
+      "polyresolver-adapter-tor.cabal",
+      "polyresolver-adapter-unbound.cabal",
+      "polyresolver-api.cabal",
+      "polyresolver-config.cabal",
+      "polyresolver-core.cabal",
+      "polyresolver-ctl.cabal",
+      "polyresolver-dns.cabal",
+      "polyresolver-metrics.cabal",
+      "polyresolver-plugin-sdk.cabal",
+      "polyresolver-server.cabal",
+      "polyresolver-types.cabal"
+    ],
+    "file_count": 263,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 771,
+    "language": "Haskell",
+    "updated_at": "2026-10-19T07:19:57Z",
+    "description": "Polyresolver: decentralized DNS resolution framework for Rust/Haskell",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/preview",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 3,
+    "branches": [
+      "dependabot/npm_and_yarn/npm_and_yarn-a415b051ba",
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "78fffa4",
+      "date": "2026-08-25T11:35:40Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 19,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "boilerplate",
+      "nextjs",
+      "typescript"
+    ],
+    "archived": true,
+    "fork": false,
+    "size_kb": 125,
+    "language": "TypeScript",
+    "updated_at": "2026-08-25T17:30:22Z",
+    "description": "preview [STUB — inactive]",
+    "open_issues_count": 1
+  },
+  {
+    "repo": "dominicusin/Quasar",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "создание-readme-338aa",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "b1c2ea0",
+      "date": "2026-08-27T01:08:16Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "flake.nix"
+    ],
+    "file_count": 19,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 133,
+    "language": "Nix",
+    "updated_at": "2026-08-27T01:09:01Z",
+    "description": "Quasar — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/rails_sample_app",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 16,
+    "branches": [
+      "account-activation",
+      "advanced-login",
+      "basic-login",
+      "filling-in-layout",
+      "following-users",
+      "local-patches",
+      "master",
+      "modeling-users",
+      "password-reset",
+      "rails-flavored-ruby",
+      "sign-up",
+      "test-micro",
+      "test-ws-full",
+      "updating-users",
+      "user-microposts",
+      "will-paginate-fix"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 100,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 4,
+    "latest_commit": {
+      "sha": "f1d5d3b",
+      "date": "2026-08-27T00:50:58Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [
+      "Gemfile"
+    ],
+    "file_count": 239,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 294,
+    "language": "Ruby",
+    "updated_at": "2026-08-27T00:51:03Z",
+    "description": "Fork from https://bitbucket.org/railstutorial/sample_app_4th_ed.git",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/resume",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 3,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "570b924",
+      "date": "2026-08-27T01:08:54Z",
+      "message": "docs: add README (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 7,
+    "workflow_count": 1,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 22,
+    "language": "TeX",
+    "updated_at": "2026-08-27T01:09:13Z",
+    "description": "CV",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/shadowbroker",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 2,
+    "branches": [
+      "local-patches",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 5,
+    "latest_commit": {
+      "sha": "bfe72f5",
+      "date": "2026-08-27T00:51:00Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [],
+    "file_count": 9702,
+    "workflow_count": 0,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 182472,
+    "language": "Python",
+    "updated_at": "2026-08-27T00:51:19Z",
+    "description": "The Shadow Brokers \"Lost In Translation\" leak ",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/spring-fleet-sapphire-monarch",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 10,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 0,
+    "latest_commit": {
+      "sha": "2fa26c6",
+      "date": "2026-10-19T11:03:58Z",
+      "message": "Export from Grok"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 316,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": false,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 1218,
+    "language": "JavaScript",
+    "updated_at": "2026-10-19T11:04:05Z",
+    "description": null,
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/trackerslist",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 1,
+    "branches": [
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 12,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "6b76842",
+      "date": "2026-09-07T22:09:40Z",
+      "message": "Update 2026/09/08"
+    },
+    "manifest_files": [],
+    "file_count": 17,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": true,
+    "size_kb": 7295,
+    "language": null,
+    "updated_at": "2026-09-08T06:19:17Z",
+    "description": "DUPLICATED → moved to transgregorial org. Canonical: transgregorial/trackerslist",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/uaw",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 3,
+    "branches": [
+      "codex/uaw-bootstrap-sync-2026-10-20",
+      "feat/node-postgres-webhook-runtime-20261020",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 9,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "d1d43c3",
+      "date": "2026-10-20T18:14:03Z",
+      "message": "Add REST API example for UAW\\n- api_example.py: Full FastAPI-based REST API for UAW\\n- 15+ endpoints covering all major "
+    },
+    "manifest_files": [],
+    "file_count": 96,
+    "workflow_count": 1,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 330,
+    "language": "Python",
+    "updated_at": "2026-10-20T18:14:09Z",
+    "description": "uaw",
+    "open_issues_count": 1
+  },
+  {
+    "repo": "dominicusin/vite-react",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 6,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "00496d8",
+      "date": "2026-08-27T01:08:19Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "package.json"
+    ],
+    "file_count": 22,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 9,
+    "language": "CSS",
+    "updated_at": "2026-08-27T01:09:02Z",
+    "description": "vite-react — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/webring",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 5,
+    "branches": [
+      "dependabot/npm_and_yarn/handlebars-4.7.9",
+      "dependabot/npm_and_yarn/npm_and_yarn-90b2a83d1d",
+      "gh-pages",
+      "main",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 100,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 5,
+    "latest_commit": {
+      "sha": "f04f146",
+      "date": "2026-08-27T00:51:03Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 55,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "community",
+      "eleventy",
+      "netlify",
+      "webring"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 623,
+    "language": "Nunjucks",
+    "updated_at": "2026-08-27T00:51:09Z",
+    "description": "Webring starter kit (Eleventy + Netlify) forked for personal ring experiments.",
+    "open_issues_count": 2
+  },
+  {
+    "repo": "dominicusin/website-optimization",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 80,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "191b55d",
+      "date": "2026-08-27T00:49:55Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 83,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 101,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T01:09:02Z",
+    "description": "website-optimization — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/zapret",
+    "org": "dominicusin",
+    "default_branch": "master",
+    "branch_count": 2,
+    "branches": [
+      "local-patches",
+      "master"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 24,
+    "latest_commit": {
+      "sha": "4338951",
+      "date": "2026-08-27T00:51:05Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [],
+    "file_count": 327,
+    "workflow_count": 1,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 21419,
+    "language": "C",
+    "updated_at": "2026-08-27T00:51:15Z",
+    "description": "Обход DPI в linux",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "dominicusin/zfs-win",
+    "org": "dominicusin",
+    "default_branch": "main",
+    "branch_count": 4,
+    "branches": [
+      "gh-pages",
+      "main",
+      "master",
+      "wiki"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "d7aa96b",
+      "date": "2026-08-27T01:08:20Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 74,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "archived",
+      "filesystem",
+      "openzfs",
+      "windows",
+      "zfs"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 178,
+    "language": "C++",
+    "updated_at": "2026-08-27T01:08:41Z",
+    "description": "Automatically exported from code.google.com/p/zfs-win",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "surypus/surypus",
+    "org": "surypus",
+    "default_branch": "main",
+    "branch_count": 4,
+    "branches": [
+      "ci/test-suite-additions",
+      "__dolt_remote_info__",
+      "gh-pages",
+      "main"
+    ],
+    "protected": true,
+    "latest_release": {
+      "tag": "v1.1.1",
+      "date": ""
+    },
+    "open_dependabot_alerts": 11,
+    "open_code_scanning_alerts": 33,
+    "commits_90d_cap100": 100,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "08f0c53",
+      "date": "2026-11-18T20:33:53Z",
+      "message": "docs: record Finance.DebitNote audit follow-ups (Surypus-647)\\n\\nwiki/Backlog.md: add Surypus-647 (counter 70 -> 71).\\nT"
+    },
+    "manifest_files": [
+      "Dockerfile",
+      "Surypus.cabal",
+      "cabal.project",
+      "docker-compose.graphql.yml",
+      "docker-compose.yml",
+      "flake.nix",
+      "package-lock.json",
+      "package.json",
+      "requirements.txt",
+      "stack.yaml",
+      "surypus-codegen.cabal"
+    ],
+    "file_count": 13232,
+    "workflow_count": 82,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "crm",
+      "distributed",
+      "erp",
+      "event-sourcing",
+      "formal-verification",
+      "haskell",
+      "postgresql",
+      "rbac"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 44916,
+    "language": "JavaScript",
+    "updated_at": "2026-10-30T18:47:20Z",
+    "description": "Surypus ERP/CRM - Haskell implementation with formal verification, type-safe database, and event sourcing",
+    "open_issues_count": 129
+  },
+  {
+    "repo": "surypus/Ergonomicguiforerpcrm",
+    "org": "surypus",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 21,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "4ec4378",
+      "date": "2026-08-27T01:08:05Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "package.json"
+    ],
+    "file_count": 98,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 125,
+    "language": "TypeScript",
+    "updated_at": "2026-09-04T04:54:02Z",
+    "description": "Ergonomicguiforerpcrm — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "surypus/.github",
+    "org": "surypus",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 4,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "71d1992",
+      "date": "2026-09-04T06:31:08Z",
+      "message": "Update org profile README"
+    },
+    "manifest_files": [],
+    "file_count": 3,
+    "workflow_count": 0,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 3,
+    "language": null,
+    "updated_at": "2026-09-04T06:31:25Z",
+    "description": "Organization profile",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "surypus/demo-repository",
+    "org": "surypus",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "add-badges-to-readme",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "7608553",
+      "date": "2026-09-03T22:49:04Z",
+      "message": "Initial commit"
+    },
+    "manifest_files": [
+      "package.json"
+    ],
+    "file_count": 7,
+    "workflow_count": 2,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 2,
+    "language": "HTML",
+    "updated_at": "2026-09-03T22:49:08Z",
+    "description": "A code repository designed to show the best GitHub has to offer.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "surypus/surypus.github.io",
+    "org": "surypus",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 4,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "cb6bb2c",
+      "date": "2026-10-11T02:36:16Z",
+      "message": "fix: remove dead app.js/Bootstrap, pin+SRI CDN, fix SW API route\\n\\n- Drop js/app.js (App class required #modal/#toast t"
+    },
+    "manifest_files": [],
+    "file_count": 14,
+    "workflow_count": 0,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 114,
+    "language": "HTML",
+    "updated_at": "2026-10-11T02:36:21Z",
+    "description": "Organization website for Surypus",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "surypus/.github-private",
+    "org": "surypus",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "caace25",
+      "date": "2026-09-04T07:01:03Z",
+      "message": "Create README.md with team welcome and guidelines\\n\\nAdded a README file with a welcome message and suggestions for team"
+    },
+    "manifest_files": [],
+    "file_count": 3,
+    "workflow_count": 0,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 1,
+    "language": null,
+    "updated_at": "2026-09-04T07:03:07Z",
+    "description": "Private org-level automation and config",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/neoallunity",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 9,
+    "branches": [
+      "dependabot/npm_and_yarn/boiler/brace-expansion-1.1.18",
+      "dependabot/npm_and_yarn/boiler/browserslist-4.28.9",
+      "dependabot/npm_and_yarn/boiler/cross-spawn-6.0.6",
+      "dependabot/npm_and_yarn/boiler/elliptic-6.6.1",
+      "dependabot/npm_and_yarn/boiler/js-yaml-3.15.2",
+      "dependabot/npm_and_yarn/boiler/multi-36d97f4dbf",
+      "dependabot/npm_and_yarn/boiler/pbkdf2-3.1.7",
+      "dependabot/npm_and_yarn/boiler/serve-static-1.16.2",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 100,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "bae57a2",
+      "date": "2026-08-27T01:08:24Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "composer.json",
+      "package-lock.json",
+      "package.json",
+      "requirements.txt"
+    ],
+    "file_count": 9782,
+    "workflow_count": 16,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "config",
+      "github-config"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 22158,
+    "language": "Python",
+    "updated_at": "2026-08-27T01:08:31Z",
+    "description": "Config files for my GitHub profile.",
+    "open_issues_count": 8
+  },
+  {
+    "repo": "neoallunity/demo-repository",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "add-auto-assign-workflow",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "401e920",
+      "date": "2026-08-27T01:08:23Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "package.json"
+    ],
+    "file_count": 10,
+    "workflow_count": 2,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 5,
+    "language": "HTML",
+    "updated_at": "2026-08-27T01:33:00Z",
+    "description": "A code repository designed to show the best GitHub has to offer.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/.github",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "2252a48",
+      "date": "2026-08-25T17:28:58Z",
+      "message": "org: replace fork stub with organization profile README"
+    },
+    "manifest_files": [],
+    "file_count": 4,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": true,
+    "size_kb": 5,
+    "language": null,
+    "updated_at": "2026-08-25T17:33:41Z",
+    "description": ".github ",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/.github-private",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 12,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "d8865b7",
+      "date": "2026-08-27T01:11:04Z",
+      "message": "chore: add inherited PR template"
+    },
+    "manifest_files": [],
+    "file_count": 15,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 12,
+    "language": null,
+    "updated_at": "2026-08-27T01:11:25Z",
+    "description": ".github-private — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/web-capture-pal",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "d550b0b",
+      "date": "2026-08-27T01:08:27Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "file_count": 177,
+    "workflow_count": 4,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 1232,
+    "language": "TypeScript",
+    "updated_at": "2026-08-27T01:14:57Z",
+    "description": "web-capture-pal — utility repository in the dominicusin ecosystem.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/Magazine",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": true,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "995bebb",
+      "date": "2026-08-27T00:50:00Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [
+      "Dockerfile",
+      "docker-compose.yml",
+      "integral-philosophy.cabal",
+      "pyproject.toml",
+      "requirements.txt",
+      "stack.yaml"
+    ],
+    "file_count": 3790,
+    "workflow_count": 1,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "academic",
+      "content-processing",
+      "monorepo",
+      "publishing",
+      "python"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 15325,
+    "language": "Python",
+    "updated_at": "2026-08-27T00:50:05Z",
+    "description": "Magazine",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": true,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 3,
+    "contributors_cap100": 2,
+    "latest_commit": {
+      "sha": "321dfcc",
+      "date": "2026-08-27T00:50:05Z",
+      "message": "ci: enable Dependabot auto-updates (incl. github-actions) to prevent deprecation warnings"
+    },
+    "manifest_files": [
+      "pyproject.toml",
+      "requirements.txt"
+    ],
+    "file_count": 1690,
+    "workflow_count": 1,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [
+      "api",
+      "haskell",
+      "hermeneutics",
+      "integral-philosophy",
+      "monorepo",
+      "nix",
+      "ontology",
+      "philosophy",
+      "research",
+      "web"
+    ],
+    "archived": false,
+    "fork": false,
+    "size_kb": 1405,
+    "language": "HTML",
+    "updated_at": "2026-08-27T00:50:10Z",
+    "description": "Complete modular academic publishing system with 8 focused subprojects",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy-core",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "551d464",
+      "date": "2026-08-25T11:47:40Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [
+      "pyproject.toml",
+      "requirements.txt"
+    ],
+    "file_count": 46,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 96,
+    "language": "Python",
+    "updated_at": "2026-08-25T19:31:15Z",
+    "description": "[MONOREPO] Merged into neoallunity/integral-philosophy (modules/core). Read-only.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy-web",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "5a4ae2b",
+      "date": "2026-08-25T11:47:41Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [
+      "pyproject.toml",
+      "requirements.txt"
+    ],
+    "file_count": 24,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 20,
+    "language": "Python",
+    "updated_at": "2026-08-25T19:31:16Z",
+    "description": "[MONOREPO] Merged into neoallunity/integral-philosophy (modules/web). Read-only.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy-cli",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "2ec7390",
+      "date": "2026-08-25T11:47:43Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [
+      "requirements.txt"
+    ],
+    "file_count": 3,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 4,
+    "language": null,
+    "updated_at": "2026-08-25T19:31:17Z",
+    "description": "[MONOREPO] Merged into neoallunity/integral-philosophy (modules/cli). Read-only.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy-docs",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "e9d15d9",
+      "date": "2026-08-25T11:47:45Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [
+      "requirements.txt"
+    ],
+    "file_count": 1591,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 1276,
+    "language": null,
+    "updated_at": "2026-08-25T19:31:17Z",
+    "description": "[MONOREPO] Merged into neoallunity/integral-philosophy (modules/docs). Read-only.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy-content",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "a80a6d0",
+      "date": "2026-08-25T11:47:46Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [],
+    "file_count": 2,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 3,
+    "language": null,
+    "updated_at": "2026-08-25T19:31:18Z",
+    "description": "[MONOREPO] Merged into neoallunity/integral-philosophy (modules/content). Read-only.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy-config",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "d7324f6",
+      "date": "2026-08-25T11:47:48Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [],
+    "file_count": 2,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 3,
+    "language": null,
+    "updated_at": "2026-08-25T19:31:19Z",
+    "description": "[MONOREPO] Merged into neoallunity/integral-philosophy (modules/config). Read-only.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy-deploy",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "dddceb1",
+      "date": "2026-08-25T11:47:50Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [],
+    "file_count": 2,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 3,
+    "language": null,
+    "updated_at": "2026-08-25T19:31:19Z",
+    "description": "[MONOREPO] Merged into neoallunity/integral-philosophy (modules/deploy). Read-only.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/integral-philosophy-tests",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 0,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "4cd3992",
+      "date": "2026-08-25T11:47:51Z",
+      "message": "Add The Unlicense (public domain dedication)"
+    },
+    "manifest_files": [],
+    "file_count": 2,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": true,
+    "fork": false,
+    "size_kb": 3,
+    "language": null,
+    "updated_at": "2026-08-25T19:31:20Z",
+    "description": "[MONOREPO] Merged into neoallunity/integral-philosophy (modules/tests). Read-only.",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/README",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 2,
+    "branches": [
+      "gh-pages",
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "54cd0d8",
+      "date": "2026-08-27T01:08:26Z",
+      "message": "chore: add Unlicense LICENSE file (best practices)"
+    },
+    "manifest_files": [],
+    "file_count": 4,
+    "workflow_count": 0,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 5,
+    "language": null,
+    "updated_at": "2026-08-27T01:08:40Z",
+    "description": "README and governance for NeoAllUnity organization",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/allunity-diskussii",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 0,
+    "latest_commit": {
+      "sha": "7a2b7cf",
+      "date": "2026-08-27T15:21:34Z",
+      "message": "media mirror"
+    },
+    "manifest_files": [],
+    "file_count": 5,
+    "workflow_count": 0,
+    "has_license_file": false,
+    "has_readme": false,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 172670,
+    "language": "HTML",
+    "updated_at": "2026-08-27T15:49:07Z",
+    "description": "media mirror",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/allunity-knigi",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 0,
+    "latest_commit": {
+      "sha": "e8f29e8",
+      "date": "2026-08-27T15:21:12Z",
+      "message": "media mirror"
+    },
+    "manifest_files": [],
+    "file_count": 32,
+    "workflow_count": 0,
+    "has_license_file": false,
+    "has_readme": false,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 45553,
+    "language": "HTML",
+    "updated_at": "2026-08-27T15:41:03Z",
+    "description": "media mirror (books)",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/allunity-zhurnaly",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 1,
+    "contributors_cap100": 0,
+    "latest_commit": {
+      "sha": "28ca43d",
+      "date": "2026-08-27T15:21:14Z",
+      "message": "media mirror"
+    },
+    "manifest_files": [],
+    "file_count": 44,
+    "workflow_count": 0,
+    "has_license_file": false,
+    "has_readme": false,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 46884,
+    "language": "HTML",
+    "updated_at": "2026-08-27T15:51:16Z",
+    "description": "media mirror (journals)",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/allunity-wagtail",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": 0,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 76,
+    "contributors_cap100": 0,
+    "latest_commit": {
+      "sha": "929f129",
+      "date": "2026-09-02T05:01:21Z",
+      "message": "fix: clear all orphaned core migrations to resolve ConflictingMigrationHistory"
+    },
+    "manifest_files": [
+      "Dockerfile",
+      "docker-compose.yml",
+      "requirements.txt"
+    ],
+    "file_count": 156,
+    "workflow_count": 2,
+    "has_license_file": false,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 32187,
+    "language": "Python",
+    "updated_at": "2026-09-02T05:02:16Z",
+    "description": "Wagtail rebuild of AllUnity.ru (refactor/redesign/reverse-engineering): page models, DRY templates, StreamField blocks, content-migration script, Docker/compose/nginx, tests",
+    "open_issues_count": 0
+  },
+  {
+    "repo": "neoallunity/allunity-divio",
+    "org": "neoallunity",
+    "default_branch": "main",
+    "branch_count": 1,
+    "branches": [
+      "main"
+    ],
+    "protected": false,
+    "latest_release": {
+      "tag": "",
+      "date": ""
+    },
+    "open_dependabot_alerts": null,
+    "open_code_scanning_alerts": null,
+    "commits_90d_cap100": 2,
+    "contributors_cap100": 1,
+    "latest_commit": {
+      "sha": "12d525c",
+      "date": "2026-08-31T19:18:22Z",
+      "message": "chore: initialize from app template"
+    },
+    "manifest_files": [
+      "Dockerfile",
+      "docker-compose.yml",
+      "requirements.txt"
+    ],
+    "file_count": 51,
+    "workflow_count": 2,
+    "has_license_file": true,
+    "has_readme": true,
+    "topics": [],
+    "archived": false,
+    "fork": false,
+    "size_kb": 18,
+    "language": "Python",
+    "updated_at": "2026-08-31T19:23:47Z",
+    "description": "allunity-divio",
+    "open_issues_count": 0
+  }
+]
