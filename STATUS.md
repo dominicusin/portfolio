@@ -12,3 +12,8 @@
 
 Merged today: `ai-orchestration-platform` (CI green), `polyresolver`, `MessageGateway`, `dominicusin.github.io` SBOM.
 Full report: `reports/2026-11-25-implementation.md`.
+
+### Late update
+
+- Wagtail: CI test check pass, license/README PR merged.
+- Surypus: tier1 build toolchain fix in PR #258; build still running at last check. Coverage/test-impact remain informational blockers (issues #8/#9).

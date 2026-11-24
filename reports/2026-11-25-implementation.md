@@ -33,3 +33,10 @@
 - Vercel check failed: `npx vercel inspect dpl_DtfpsYfHH27LAQ8fmQdc3MGCDyfS --logs`.
 - CircleCI check failed: "No configuration was found in your project".
 GitHub Pages remains the working prod path — DOM-6 decision recorded as portfolio issue #6.
+
+## Update — continue session (same day)
+
+- `neoallunity/allunity-wagtail` PR #1: added MIT LICENSE and a real README; CI test check passed, PR merged. Portfolio issue #4 closed. The `TemplateSyntaxError` from September logs had already been fixed on main — plan adjusted accordingly (no template change needed).
+- `surypus/surypus` PR #258: removes exported no-op `getTenantFromRequest`/`checkTenantAccess` and hardcoded `defaultSecretKey`; also repairs the CI toolchain: `haskell-actions/setup` + system GHC replaces the broken bindist (`collect2: cannot find ld`, S-5159), and coverage job pins GHC plus installs `binutils-gold`. Main build had been failing since 2026-11-18 — this is a pre-existing infrastructure defect, not caused by the security change. Build job was still in progress at last observation; PR not merged until tier1 passes.
+- Portfolio issues #8 (main CI toolchain) and #9 (coverage/test-impact tiering) created with evidence.
+- Confirmed by local Django 4.2/Wagtail 5.2 template compilation: no `%`-expression syntax error remains in the current templates.
