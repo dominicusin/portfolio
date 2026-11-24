@@ -40,3 +40,10 @@ GitHub Pages remains the working prod path — DOM-6 decision recorded as portfo
 - `surypus/surypus` PR #258: removes exported no-op `getTenantFromRequest`/`checkTenantAccess` and hardcoded `defaultSecretKey`; also repairs the CI toolchain: `haskell-actions/setup` + system GHC replaces the broken bindist (`collect2: cannot find ld`, S-5159), and coverage job pins GHC plus installs `binutils-gold`. Main build had been failing since 2026-11-18 — this is a pre-existing infrastructure defect, not caused by the security change. Build job was still in progress at last observation; PR not merged until tier1 passes.
 - Portfolio issues #8 (main CI toolchain) and #9 (coverage/test-impact tiering) created with evidence.
 - Confirmed by local Django 4.2/Wagtail 5.2 template compilation: no `%`-expression syntax error remains in the current templates.
+
+## Final pass (same session)
+
+- `dominicusin/Linux-Serv-Ansible` PR #1 merged after full CI success: ansible-lint 0, jinja2 installed, controller-unit and node-watcher regressions made CI-portable (absolute controller path mapped to repo; loopback host used for verdict isolation) and passed locally (34 + 24 checks). No assertions weakened.
+- `dominicusin/ai-orchestration-platform` PR #2 merged: portable `./Surypus2` and `./OpenPapyrus` defaults, correct clone URL, accurate test badge (942 collected); `test` and `docker` checks passed.
+- `surypus/surypus` PR #258: fixed a pre-existing test compile error (`foldl'` missing in `test/Finance/LedgerSpec.hs`) uncovered once the toolchain was repaired; CI rerun pending.
+- Security-alert triage is **capability-blocked**: Dependabot alert PATCH requires `admin:repo_hook`, absent from the current token; alerts endpoint also ignores `page`. Recorded in issue #7. No credentials requested or stored.

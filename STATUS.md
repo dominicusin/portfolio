@@ -17,3 +17,10 @@ Full report: `reports/2026-11-25-implementation.md`.
 
 - Wagtail: CI test check pass, license/README PR merged.
 - Surypus: tier1 build toolchain fix in PR #258; build still running at last check. Coverage/test-impact remain informational blockers (issues #8/#9).
+
+### Final pass
+
+- Linux-Serv-Ansible PR #1: CI success, merged.
+- ai-orchestration-platform PR #2: test + docker pass, merged.
+- Surypus PR #258: foldl' test import fixed, CI rerun pending.
+- Dependabot mass-triage blocked by missing admin:repo_hook scope (issue #7).
