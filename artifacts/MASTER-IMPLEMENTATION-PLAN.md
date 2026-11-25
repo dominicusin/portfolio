@@ -433,3 +433,11 @@ GHC 9.6.5 / Stack 3.x (surypus), Python 3.11+ (Wagtail 3.12), Node 24, Hugo Exte
 | SEC-002 | ЧАСТИЧНО | `artifacts/SEC-002-triage.md`: 14 активных репо с алертами приоритизированы; 5 archived/fork остаются блокированными по scope токена |
 | FTN-001/002/005 | Проект готов | `docs/FTN-001-002-design.md`, `docs/FTN-005-uaw-adapter.md`;Maintenance-константы (JAM DW, cron, areastat) зафиксированы как неизменяемые без restore-дрилла |
 | INF-005 | Проект готов | `docs/INF-005-restore-checklist.md`; фактический drill требует доступа к 192.168.1.2 |
+
+## 17. Исполнение SUR-010, NEO-003, PKG-003
+
+| Пункт | Статус | Доказательство |
+|---|---|---|
+| SUR-010 | DONE | `surypus/surypus#263` merged: `src/.planning` и `src/.claude` перенесены в `docs/planning/`; локально 1204/0/3; required checks main без failures |
+| NEO-003 | Проект готов | `docs/NEO-003-publishing-pipeline.md`: 8 стадий, NEO-001 metadata, sitemap как задача Wagtail, запрет новых материалов в historical snapshot |
+| PKG-003 | Решение зафиксировано | `docs/PKG-003-status.md`: один репозиторий — один статус; polyresolver = Phase 0, MessageGateway = experiment; архивация не выполнялась без проверки прав |
