@@ -24,3 +24,9 @@ Full report: `reports/2026-11-25-implementation.md`.
 - ai-orchestration-platform PR #2: test + docker pass, merged.
 - Surypus PR #258: foldl' test import fixed, CI rerun pending.
 - Dependabot mass-triage blocked by missing admin:repo_hook scope (issue #7).
+
+### Completion pass
+
+- Surypus: PR #258 and #259 merged; all PR-head checks pass; main CI run pending.
+- Linux-Serv-Ansible and ai-orchestration-platform: merged with green CI.
+- Open blockers: #2 secret, #5 legal, #6 external checks, #7 alert-triage scope.

@@ -47,3 +47,10 @@ GitHub Pages remains the working prod path — DOM-6 decision recorded as portfo
 - `dominicusin/ai-orchestration-platform` PR #2 merged: portable `./Surypus2` and `./OpenPapyrus` defaults, correct clone URL, accurate test badge (942 collected); `test` and `docker` checks passed.
 - `surypus/surypus` PR #258: fixed a pre-existing test compile error (`foldl'` missing in `test/Finance/LedgerSpec.hs`) uncovered once the toolchain was repaired; CI rerun pending.
 - Security-alert triage is **capability-blocked**: Dependabot alert PATCH requires `admin:repo_hook`, absent from the current token; alerts endpoint also ignores `page`. Recorded in issue #7. No credentials requested or stored.
+
+## Completion pass
+
+- `surypus/surypus` PR #258 merged (security stubs removed; CI toolchain repaired; foldl import) and PR #259 merged (test-impact toolchain and hspec arguments). On PR heads: build pass 14m41s, coverage pass 7m01s, test-impact pass 6m24s. Main-branch CI run triggered by the merge was still pending at last check.
+- `dominicusin/Linux-Serv-Ansible` PR #1 merged with CI success.
+- `dominicusin/ai-orchestration-platform` PR #2 merged with test + docker pass.
+- Portfolio issues #1, #3, #8, #9 closed with evidence. Remaining open: #2 (gitleaks secret), #5 (media legal status), #6 (Vercel/CircleCI), #7 (alert triage — capability-blocked).
