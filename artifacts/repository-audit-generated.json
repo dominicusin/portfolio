@@ -14,7 +14,7 @@
     "open_issues_count": 0,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 11,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": 0
   },
   {
@@ -50,7 +50,7 @@
     "open_issues_count": 0,
     "branch_count": 4,
     "protected": true,
-    "commits_90d_cap100": 3,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": 0
   },
   {
@@ -68,7 +68,7 @@
     "open_issues_count": 11,
     "branch_count": 13,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 56
   },
   {
@@ -140,7 +140,7 @@
     "open_issues_count": 0,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -212,7 +212,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": null
   },
   {
@@ -248,7 +248,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": null
   },
   {
@@ -320,7 +320,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 2
   },
   {
@@ -410,7 +410,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -464,7 +464,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 9
   },
   {
@@ -536,7 +536,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -554,7 +554,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -590,7 +590,7 @@
     "open_issues_count": 1,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 66
   },
   {
@@ -608,7 +608,7 @@
     "open_issues_count": 0,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -662,7 +662,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -690,7 +690,7 @@
     "visibility": "public",
     "language": "Python",
     "size_kb": 74,
-    "updated_at": "2026-11-24T22:25:32Z",
+    "updated_at": "2026-11-25T01:43:35Z",
     "archived": false,
     "fork": false,
     "description": "Portfolio control plane for the dominicusin/surypus/neoallunity ecosystem",
@@ -698,7 +698,7 @@
     "open_issues_count": 4,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 6,
+    "commits_90d_cap100": 10,
     "open_dependabot_alerts": 0
   },
   {
@@ -734,7 +734,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -770,7 +770,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -839,10 +839,10 @@
     "fork": false,
     "description": "uaw",
     "license": null,
-    "open_issues_count": 1,
-    "branch_count": 3,
+    "open_issues_count": 2,
+    "branch_count": 5,
     "protected": false,
-    "commits_90d_cap100": 9,
+    "commits_90d_cap100": 10,
     "open_dependabot_alerts": 0
   },
   {
@@ -860,7 +860,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 6
   },
   {
@@ -932,7 +932,7 @@
     "open_issues_count": 0,
     "branch_count": 4,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -941,14 +941,14 @@
     "full_name": "surypus/surypus",
     "visibility": "public",
     "language": "JavaScript",
-    "size_kb": 44955,
+    "size_kb": 44986,
     "updated_at": "2026-10-30T18:47:20Z",
     "archived": false,
     "fork": false,
     "description": "Surypus ERP/CRM - Haskell implementation with formal verification, type-safe database, and event sourcing",
     "license": "MPL-2.0",
-    "open_issues_count": 106,
-    "branch_count": 5,
+    "open_issues_count": 107,
+    "branch_count": 6,
     "protected": true,
     "commits_90d_cap100": 100,
     "open_dependabot_alerts": 13
@@ -968,7 +968,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 21
   },
   {
@@ -1058,7 +1058,7 @@
     "open_issues_count": 8,
     "branch_count": 9,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 100
   },
   {
@@ -1076,7 +1076,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": null
   },
   {
@@ -1091,8 +1091,8 @@
     "fork": true,
     "description": ".github ",
     "license": "MIT",
-    "open_issues_count": 0,
-    "branch_count": 1,
+    "open_issues_count": 1,
+    "branch_count": 2,
     "protected": false,
     "commits_90d_cap100": 0,
     "open_dependabot_alerts": null
@@ -1112,7 +1112,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 11,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": null
   },
   {
@@ -1130,7 +1130,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": null
   },
   {
@@ -1145,8 +1145,8 @@
     "fork": false,
     "description": "Magazine",
     "license": "LGPL-2.1",
-    "open_issues_count": 0,
-    "branch_count": 2,
+    "open_issues_count": 1,
+    "branch_count": 3,
     "protected": true,
     "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
@@ -1325,8 +1325,8 @@
     "fork": false,
     "description": "README and governance for NeoAllUnity organization",
     "license": "Unlicense",
-    "open_issues_count": 0,
-    "branch_count": 2,
+    "open_issues_count": 1,
+    "branch_count": 4,
     "protected": false,
     "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
@@ -1344,9 +1344,9 @@
     "description": "media mirror",
     "license": null,
     "open_issues_count": 0,
-    "branch_count": 1,
+    "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": 0
   },
   {
@@ -1362,9 +1362,9 @@
     "description": "media mirror (books)",
     "license": null,
     "open_issues_count": 0,
-    "branch_count": 1,
+    "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": 0
   },
   {
@@ -1380,9 +1380,9 @@
     "description": "media mirror (journals)",
     "license": null,
     "open_issues_count": 0,
-    "branch_count": 1,
+    "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": 0
   },
   {
@@ -1398,9 +1398,9 @@
     "description": "Wagtail rebuild of AllUnity.ru (refactor/redesign/reverse-engineering): page models, DRY templates, StreamField blocks, content-migration script, Docker/compose/nginx, tests",
     "license": "MIT",
     "open_issues_count": 0,
-    "branch_count": 2,
+    "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 77,
+    "commits_90d_cap100": 80,
     "open_dependabot_alerts": 0
   },
   {
