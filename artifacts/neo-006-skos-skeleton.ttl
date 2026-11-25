@@ -1,0 +1,20 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ex: <https://new.allunity.ru/vocab/> .
+
+ex:MaterialType a skos:ConceptScheme ;
+  skos:prefLabel "NeoAllUnity material types"@en .
+
+ex:primary_source a skos:Concept ; skos:inScheme ex:MaterialType ;
+  skos:prefLabel "Primary source"@en ; skos:definition "Immutable source material"@en .
+ex:author_text a skos:Concept ; skos:inScheme ex:MaterialType ;
+  skos:prefLabel "Author text"@en .
+ex:translation a skos:Concept ; skos:inScheme ex:MaterialType ;
+  skos:prefLabel "Translation"@en ; skos:broader ex:author_text .
+ex:commentary a skos:Concept ; skos:inScheme ex:MaterialType ;
+  skos:prefLabel "Commentary"@en ; skos:broader ex:author_text .
+ex:media a skos:Concept ; skos:inScheme ex:MaterialType ;
+  skos:prefLabel "Media"@en .
+
+ex:relatedTo a skos:Concept ; skos:inScheme ex:MaterialType ;
+  skos:prefLabel "related to"@en ;
+  skos:definition "Links source, translation and commentary records"@en .

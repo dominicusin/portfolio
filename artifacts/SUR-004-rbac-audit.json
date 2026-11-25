@@ -1,0 +1,47 @@
+{
+  "total": 10,
+  "unguarded_count": 8,
+  "note": "Heuristic static audit of Surypus source. Routes reported as unguarded are candidates for manual review, not confirmed vulnerabilities; login/health and publicPaths are expected false positives.",
+  "unguarded": [
+    {
+      "route": "/api/v1/login",
+      "file": "Middleware.hs",
+      "line": 41
+    },
+    {
+      "route": "/api/v1/",
+      "file": "Authorization.hs",
+      "line": 103
+    },
+    {
+      "route": "/api/v1/health",
+      "file": "Server.hs",
+      "line": 213
+    },
+    {
+      "route": "/api/v1/health/db",
+      "file": "Server.hs",
+      "line": 215
+    },
+    {
+      "route": "/api/v1/reports/download/",
+      "file": "Server.hs",
+      "line": 222
+    },
+    {
+      "route": "/api/v1/reports/download/",
+      "file": "Server.hs",
+      "line": 224
+    },
+    {
+      "route": "/api/v1/metrics",
+      "file": "Server.hs",
+      "line": 230
+    },
+    {
+      "route": "/api/v1/reports/download/",
+      "file": "Server.hs",
+      "line": 679
+    }
+  ]
+}
