@@ -17,8 +17,8 @@ Probe: `python3 automation/check_blockers.py`. It performs only read-only checks
 **Verified:** token scopes are `gist`, `read:org`, `repo`, `workflow` — no `admin:repo_hook`, no `admin:org`.
 
 **Resolution paths:**
-1. Interactive terminal: `gh auth refresh -h github.com -s admin:repo_hook -s admin:org`. This is a browser/device flow; no secret is pasted into chat. Then re-run the dismissal script with reason `not_used` only.
-2. Alternative: a fine-grained PAT or GitHub App installation token with `Administration: write` on the affected repos, stored via `hermes-vault add` and read through the vault injector. Preferred for scheduled automation.
+1. Interactive terminal: `gh auth refresh -h github.com -s delete_repo` (adds the missing scope for the current API). Then re-run dismissal with `dismissed_reason: not_used` only.
+2. Enable delegated alert dismissal for the target repositories, or use a fine-grained PAT/GitHub App with `Dependabot alerts: write` and `Administration: write`, stored via `hermes-vault add` and read through the vault injector. Preferred for scheduled automation.
 3. For archived repos, an even simpler path is to let GitHub archive-state policies handle alerts: document accepted risk in `SEC-002-triage.md` if the token cannot be upgraded. Do not mark alerts as false positives.
 
 ## 3. Private `Linux-Serv-Ansible` branch protection (SEC-001 residual)

@@ -24,8 +24,8 @@ def gh_scopes():
     rc, out = run(["gh", "auth", "status"])
     line = next((l for l in out.splitlines() if "Token scopes" in l), "")
     import re
-    match = re.search(r"scopes: '([^']*)'", line)
-    scopes = match.group(1) if match else ""
+    tail = line.split("scopes:", 1)[-1]
+    scopes = ",".join(re.findall(r"'([^']+)'", tail))
     return {"scopes": scopes,
             "has_admin_repo_hook": "admin:repo_hook" in scopes,
             "has_admin_org": "admin:org" in scopes}
