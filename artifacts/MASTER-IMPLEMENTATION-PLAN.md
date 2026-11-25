@@ -402,6 +402,6 @@ GHC 9.6.5 / Stack 3.x (surypus), Python 3.11+ (Wagtail 3.12), Node 24, Hugo Exte
 | UAW-001 — транзакционное хранилище | DONE | SQLite/WAL, `synchronous=FULL`, `RLock`, legacy-миграция; `tests/test_state_durability.py` 4/4; PR #3 merged, job `state-durability` pass; required check включён |
 | NEO README/.github/Magazine | DONE | PRы `neoallunity/README#2`, `.github#1`, `Magazine#1` merged — канонический monorepo, исправлены fence-ы и лицензионная формулировка |
 | Wagtail шаблоны | ДУБЛИКАТ ОШИБКИ АУДИТА | Заявленные 22 TemplateSyntaxError не воспроизводятся: `scripts/validate_templates.py` (Django 4.2 + Wagtail 5.2.8) → `TOTAL_ERRORS 0`. Проверка добавлена в CI, PR #2 merged, Required check `test` включён |
-| Еженедельный отчёт | DONE | portfolio cron job + реальный.commits |
+| Еженедельный отчёт | DONE | portfolio cron job + реальный push |
 
 Оставшиеся блокеры не требуют нового кода: ротация/разблокировка vault, расширение прав токена для archived/fork и приватного Ansible-репо, полное восстановление legacy-тестов UAW (`TaskQueue`/`DependencyGraph` отсутствуют в дереве).
