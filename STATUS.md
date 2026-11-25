@@ -27,6 +27,6 @@ Full report: `reports/2026-11-25-implementation.md`.
 
 ### Completion pass
 
-- Surypus: PR #258 and #259 merged; all PR-head checks pass; main CI run pending.
+- Surypus: PR #258 and #259 merged; all PR-head checks pass; main CI run 45519684668 completed success.
 - Linux-Serv-Ansible and ai-orchestration-platform: merged with green CI.
 - Open blockers: #2 secret, #5 legal, #6 external checks, #7 alert-triage scope.
