@@ -405,3 +405,13 @@ GHC 9.6.5 / Stack 3.x (surypus), Python 3.11+ (Wagtail 3.12), Node 24, Hugo Exte
 | Еженедельный отчёт | DONE | portfolio cron job + реальный push |
 
 Оставшиеся блокеры не требуют нового кода: ротация/разблокировка vault, расширение прав токена для archived/fork и приватного Ansible-репо, полное восстановление legacy-тестов UAW (`TaskQueue`/`DependencyGraph` отсутствуют в дереве).
+
+## 14. Исполнение: следующий проход
+
+| ID | Статус | Доказательство |
+|---|---|---|
+| NEO-005 | DONE | `neoallunity/integral-philosophy#7` merged: Dependabot перенаправлен на `modules/{cli,core,docs,web}`, CI больше не скрывает ошибки `pip install`/`compileall`, локальные `core`/`web` устанавливаются как editable. Monorepo CI на main: success; 9 required checks включены |
+| UAW-003 | DONE | `dominicusin/uaw#4` merged: `core/idempotency.py` (SQLite/WAL, lease, at-most-once), 5 новых тестов, суммарно 9 passed, required job зелёный |
+| WEB-003 | DONE | `dominicusin.github.io#468` merged: deploy- workflow проверяет, что submodule-ы находятся на зафиксированных gitlink-коммитах |
+| SUR-003 | IN REVIEW | `surypus/surypus#262`: добавлен registered `iss`, проверка issuer в обоих JWT-модулях, 2 негативных теста; локально `stack test` 1204/0/3; PR после rebase на main, CI в процессе |
+| SEC-002/INF/FTN | BLOCKED | Требуются: ротация/разблокировка vault, scope токена для archived/fork и приватного Ansible-репо, доступ к хосту 192.168.1.2 |
