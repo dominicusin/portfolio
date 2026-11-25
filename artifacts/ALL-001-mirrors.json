@@ -1,0 +1,103 @@
+[
+  {
+    "repo": "neoallunity/allunity-diskussii",
+    "meta": {
+      "clone_url": "https://github.com/neoallunity/allunity-diskussii.git",
+      "created_at": "2026-08-27T15:20:37Z",
+      "default_branch": "main",
+      "description": "media mirror",
+      "full_name": "neoallunity/allunity-diskussii",
+      "homepage": null,
+      "license": null,
+      "pushed_at": "2026-08-27T15:22:15Z",
+      "size": 172670,
+      "topics": []
+    },
+    "file_count": 5,
+    "extensions": {
+      ".mp3": 4,
+      ".html": 1
+    },
+    "sample_paths": [
+      "index.html",
+      "О подступах к концепту социона.mp3",
+      "О различении теоретического и практического социопротокода (сущностей).mp3",
+      "Понятие сущей сущности (Dawesen) как приращение к теории сущности.mp3",
+      "Понятие сущности как генератора существенных свойств.mp3"
+    ],
+    "source_hint": "https://cdn.tailwindcss.com"
+  },
+  {
+    "repo": "neoallunity/allunity-knigi",
+    "meta": {
+      "clone_url": "https://github.com/neoallunity/allunity-knigi.git",
+      "created_at": "2026-08-27T15:20:47Z",
+      "default_branch": "main",
+      "description": "media mirror (books)",
+      "full_name": "neoallunity/allunity-knigi",
+      "homepage": null,
+      "license": null,
+      "pushed_at": "2026-08-27T15:22:54Z",
+      "size": 45553,
+      "topics": []
+    },
+    "file_count": 32,
+    "extensions": {
+      ".pdf": 11,
+      ".html": 11,
+      "(none)": 8,
+      ". Основы интегрального выведения мира": 1,
+      ". Пути построения полной картины мира ": 1
+    },
+    "sample_paths": [
+      "Book-All.pdf",
+      "Book-God.pdf",
+      "Good.pdf",
+      "Good",
+      "Good/index.html",
+      "Integralika.pdf",
+      "JustGood.pdf",
+      "LOGVS.pdf",
+      "LOS_1_1.pdf",
+      "LOS_1_2.pdf",
+      "Logic of Good",
+      "Logic of Good/index.html"
+    ],
+    "source_hint": "https://cdn.tailwindcss.com"
+  },
+  {
+    "repo": "neoallunity/allunity-zhurnaly",
+    "meta": {
+      "clone_url": "https://github.com/neoallunity/allunity-zhurnaly.git",
+      "created_at": "2026-08-27T15:20:49Z",
+      "default_branch": "main",
+      "description": "media mirror (journals)",
+      "full_name": "neoallunity/allunity-zhurnaly",
+      "homepage": null,
+      "license": null,
+      "pushed_at": "2026-08-27T15:23:10Z",
+      "size": 46884,
+      "topics": []
+    },
+    "file_count": 44,
+    "extensions": {
+      "(none)": 29,
+      ".html": 15
+    },
+    "sample_paths": [
+      "1",
+      "1/index.html",
+      "10",
+      "10/index.html",
+      "11",
+      "11/index.html",
+      "12",
+      "12/index.html",
+      "13",
+      "13/index.html",
+      "14",
+      "14/index.html"
+    ],
+    "source_hint": "https://cdn.tailwindcss.com"
+  }
+]

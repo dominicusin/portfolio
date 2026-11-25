@@ -5,7 +5,7 @@
     "full_name": "dominicusin/.github",
     "visibility": "public",
     "language": "Jupyter Notebook",
-    "size_kb": 384,
+    "size_kb": 388,
     "updated_at": "2026-08-27T01:11:03Z",
     "archived": false,
     "fork": false,
@@ -14,7 +14,7 @@
     "open_issues_count": 0,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 10,
+    "commits_90d_cap100": 11,
     "open_dependabot_alerts": 0
   },
   {
@@ -41,16 +41,16 @@
     "full_name": "dominicusin/ai-orchestration-platform",
     "visibility": "public",
     "language": "Python",
-    "size_kb": 651,
+    "size_kb": 713,
     "updated_at": "2026-08-27T01:08:22Z",
     "archived": false,
     "fork": false,
     "description": "Comprehensive AI Orchestration Platform with 925+ tests",
     "license": "Unlicense",
     "open_issues_count": 0,
-    "branch_count": 2,
+    "branch_count": 4,
     "protected": true,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 3,
     "open_dependabot_alerts": 0
   },
   {
@@ -68,7 +68,7 @@
     "open_issues_count": 11,
     "branch_count": 13,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 56
   },
   {
@@ -140,7 +140,7 @@
     "open_issues_count": 0,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
   },
   {
@@ -158,7 +158,7 @@
     "open_issues_count": 6,
     "branch_count": 13,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 100
   },
   {
@@ -194,7 +194,7 @@
     "open_issues_count": 0,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -212,7 +212,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 3,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": null
   },
   {
@@ -230,7 +230,7 @@
     "open_issues_count": 10,
     "branch_count": 11,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 100
   },
   {
@@ -248,7 +248,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": null
   },
   {
@@ -284,7 +284,7 @@
     "open_issues_count": 0,
     "branch_count": 4,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 9
   },
   {
@@ -320,7 +320,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 2
   },
   {
@@ -329,7 +329,7 @@
     "full_name": "dominicusin/dominicusin.github.io",
     "visibility": "public",
     "language": "JavaScript",
-    "size_kb": 67347,
+    "size_kb": 67505,
     "updated_at": "2026-10-23T16:59:06Z",
     "archived": false,
     "fork": false,
@@ -339,7 +339,7 @@
     "branch_count": 9,
     "protected": true,
     "commits_90d_cap100": 100,
-    "open_dependabot_alerts": 18
+    "open_dependabot_alerts": 22
   },
   {
     "repo": "dominicusin/fidogate",
@@ -356,7 +356,7 @@
     "open_issues_count": 0,
     "branch_count": 20,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -410,7 +410,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
   },
   {
@@ -428,7 +428,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -464,7 +464,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 9
   },
   {
@@ -473,14 +473,14 @@
     "full_name": "dominicusin/Linux-Serv-Ansible",
     "visibility": "private",
     "language": "Haskell",
-    "size_kb": 15522,
+    "size_kb": 15529,
     "updated_at": "2026-11-08T06:03:55Z",
     "archived": false,
     "fork": false,
     "description": "Ansible playbooks for Linux server hardening and optimization",
     "license": "CC-BY-SA-4.0",
     "open_issues_count": 0,
-    "branch_count": 1,
+    "branch_count": 2,
     "protected": false,
     "commits_90d_cap100": 100,
     "open_dependabot_alerts": 0
@@ -491,16 +491,16 @@
     "full_name": "dominicusin/MessageGateway",
     "visibility": "public",
     "language": "Haskell",
-    "size_kb": 27,
+    "size_kb": 33,
     "updated_at": "2026-10-18T04:52:26Z",
     "archived": false,
     "fork": false,
     "description": "Message Gateway — universal message bridge on Haskell",
-    "license": null,
+    "license": "MPL-2.0",
     "open_issues_count": 0,
-    "branch_count": 1,
+    "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": 0
   },
   {
@@ -536,7 +536,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 3,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": 0
   },
   {
@@ -554,7 +554,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
   },
   {
@@ -590,7 +590,7 @@
     "open_issues_count": 1,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 66
   },
   {
@@ -608,7 +608,7 @@
     "open_issues_count": 0,
     "branch_count": 3,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
   },
   {
@@ -626,7 +626,7 @@
     "open_issues_count": 3,
     "branch_count": 13,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 62
   },
   {
@@ -644,7 +644,7 @@
     "open_issues_count": 3,
     "branch_count": 8,
     "protected": true,
-    "commits_90d_cap100": 100,
+    "commits_90d_cap100": 93,
     "open_dependabot_alerts": 2
   },
   {
@@ -662,7 +662,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
   },
   {
@@ -671,16 +671,16 @@
     "full_name": "dominicusin/polyresolver",
     "visibility": "public",
     "language": "Haskell",
-    "size_kb": 771,
+    "size_kb": 778,
     "updated_at": "2026-10-19T07:19:57Z",
     "archived": false,
     "fork": false,
     "description": "Polyresolver: decentralized DNS resolution framework for Rust/Haskell",
-    "license": "NOASSERTION",
+    "license": "MPL-2.0",
     "open_issues_count": 0,
-    "branch_count": 1,
+    "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 15,
+    "commits_90d_cap100": 16,
     "open_dependabot_alerts": 0
   },
   {
@@ -688,17 +688,17 @@
     "org": "user",
     "full_name": "dominicusin/portfolio",
     "visibility": "public",
-    "language": null,
-    "size_kb": 0,
-    "updated_at": "2026-11-24T22:22:40Z",
+    "language": "Python",
+    "size_kb": 74,
+    "updated_at": "2026-11-24T22:25:32Z",
     "archived": false,
     "fork": false,
     "description": "Portfolio control plane for the dominicusin/surypus/neoallunity ecosystem",
     "license": null,
-    "open_issues_count": 0,
-    "branch_count": 0,
+    "open_issues_count": 4,
+    "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": null,
+    "commits_90d_cap100": 6,
     "open_dependabot_alerts": 0
   },
   {
@@ -734,7 +734,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
   },
   {
@@ -752,7 +752,7 @@
     "open_issues_count": 0,
     "branch_count": 16,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 100
   },
   {
@@ -770,7 +770,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 3,
+    "commits_90d_cap100": 2,
     "open_dependabot_alerts": 0
   },
   {
@@ -788,7 +788,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -860,7 +860,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 6
   },
   {
@@ -878,7 +878,7 @@
     "open_issues_count": 2,
     "branch_count": 5,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 100
   },
   {
@@ -896,7 +896,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 80
   },
   {
@@ -914,7 +914,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 1,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -932,7 +932,7 @@
     "open_issues_count": 0,
     "branch_count": 4,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
   },
   {
@@ -941,17 +941,17 @@
     "full_name": "surypus/surypus",
     "visibility": "public",
     "language": "JavaScript",
-    "size_kb": 44916,
+    "size_kb": 44955,
     "updated_at": "2026-10-30T18:47:20Z",
     "archived": false,
     "fork": false,
     "description": "Surypus ERP/CRM - Haskell implementation with formal verification, type-safe database, and event sourcing",
     "license": "MPL-2.0",
-    "open_issues_count": 129,
-    "branch_count": 4,
+    "open_issues_count": 106,
+    "branch_count": 5,
     "protected": true,
     "commits_90d_cap100": 100,
-    "open_dependabot_alerts": 11
+    "open_dependabot_alerts": 13
   },
   {
     "repo": "surypus/Ergonomicguiforerpcrm",
@@ -968,7 +968,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 21
   },
   {
@@ -1058,7 +1058,7 @@
     "open_issues_count": 8,
     "branch_count": 9,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 100
   },
   {
@@ -1076,7 +1076,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": null
   },
   {
@@ -1112,7 +1112,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 12,
+    "commits_90d_cap100": 11,
     "open_dependabot_alerts": null
   },
   {
@@ -1130,7 +1130,7 @@
     "open_issues_count": 0,
     "branch_count": 1,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": null
   },
   {
@@ -1148,7 +1148,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": true,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -1166,7 +1166,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": true,
-    "commits_90d_cap100": 3,
+    "commits_90d_cap100": 0,
     "open_dependabot_alerts": 0
   },
   {
@@ -1328,7 +1328,7 @@
     "open_issues_count": 0,
     "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 2,
+    "commits_90d_cap100": 1,
     "open_dependabot_alerts": 0
   },
   {
@@ -1391,16 +1391,16 @@
     "full_name": "neoallunity/allunity-wagtail",
     "visibility": "public",
     "language": "Python",
-    "size_kb": 32187,
+    "size_kb": 32190,
     "updated_at": "2026-09-02T05:02:16Z",
     "archived": false,
     "fork": false,
     "description": "Wagtail rebuild of AllUnity.ru (refactor/redesign/reverse-engineering): page models, DRY templates, StreamField blocks, content-migration script, Docker/compose/nginx, tests",
-    "license": null,
+    "license": "MIT",
     "open_issues_count": 0,
-    "branch_count": 1,
+    "branch_count": 2,
     "protected": false,
-    "commits_90d_cap100": 76,
+    "commits_90d_cap100": 77,
     "open_dependabot_alerts": 0
   },
   {
