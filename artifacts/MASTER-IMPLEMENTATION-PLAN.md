@@ -415,3 +415,12 @@ GHC 9.6.5 / Stack 3.x (surypus), Python 3.11+ (Wagtail 3.12), Node 24, Hugo Exte
 | WEB-003 | DONE | `dominicusin.github.io#468` merged: deploy- workflow проверяет, что submodule-ы находятся на зафиксированных gitlink-коммитах |
 | SUR-003 | DONE | `surypus/surypus#262`: добавлен registered `iss`, проверка issuer в обоих JWT-модулях, 2 негативных теста; локально `stack test` 1204/0/3; PR #262 merged; все required checks на main success |
 | SEC-002/INF/FTN | BLOCKED | Требуются: ротация/разблокировка vault, scope токена для archived/fork и приватного Ansible-репо, доступ к хосту 192.168.1.2 |
+
+## 15. Исполнение UAW-004/005/006
+
+| ID | Статус | Доказательство |
+|---|---|---|
+| UAW-004 | DONE | `dominicusin/uaw#6` merged: `core/capabilities.py` проверяет реальную доступность коннекторов через `is_available()` или наличие учётных данных, отказ с именем и причиной |
+| UAW-005 | DONE | `dominicusin/uaw#5` merged: `core/policy.py` L0-L4, deny-by-default для delete/send/publish/financial, явные approvals, dry-run без side effects |
+| UAW-006 | DONE | `core/verification.py`: успешный вызов с неверным результатом помечается failed; 10 новых тестов |
+| Суммарно | 24 теста зелёные локально и в required job `state-durability` на main |
