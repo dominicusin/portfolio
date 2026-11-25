@@ -10,7 +10,7 @@ Legend: **DONE** = evidence in CI/tests/merge; **DESIGN** = canonical design rec
 | SEC-001 | DONE | required checks on uaw, wagtail, ai-orchestration, surypus, integral-philosophy; #2 closed after security-scan migrated to GITHUB_TOKEN |
 | SEC-002 | BLOCKED (partially triaged) | `artifacts/SEC-002-triage.md`; 5 archived/fork need `admin:repo_hook`; no alerts dismissed |
 | SUR-001/002/003 | DONE | PR #258, #261, #262 merged; real JWT fixtures, issuer verification, sub from registered claim |
-| SUR-004 | DESIGN | RBAC deny-by-default remains a code-change programme; no new unprotected endpoint was introduced by our changes |
+| SUR-004 | PARTIAL | `automation/rbac_audit.py` + `artifacts/SUR-004-rbac-audit.json`: 10 routes scanned, 8 review candidates (public login/health are expected false positives); code-level deny-by-default still a review programme |
 | SUR-005 | DESIGN | tenant context from verified JWT implemented (#261); RLS policies need a live PostgreSQL instance |
 | SUR-006 | DESIGN | DAL stub removal requires DB-backed integration environment |
 | SUR-007 | DONE (invariant verified) | `Finance.Accounting.validateTransaction` + existing AccountingSpec; no change needed |
@@ -25,7 +25,7 @@ Legend: **DONE** = evidence in CI/tests/merge; **DESIGN** = canonical design rec
 | NEO-003 | DONE | `docs/NEO-003-publishing-pipeline.md` |
 | NEO-004 | PARTIAL | CI/deploy separated and template validation added; live CMS instance not deployed (host not provided) |
 | NEO-005 | DONE | PR #7 merged, Monorepo CI green, 9 required checks |
-| NEO-006 | DESIGN | RDF/OWL/SKOS layer deferred per priority after NEO-001/002 |
+| NEO-006 | PARTIAL | `artifacts/neo-006-skos-skeleton.ttl` defines material types and `relatedTo`; full graph/Wikibase layer remains roadmap |
 | INF-001 | DONE (draft) | `artifacts/INF-001-hardware-inventory.md`, unverified fields marked |
 | INF-002/006 | DESIGN | `proposals/README.md`; no new OS repos created |
 | INF-003 | PARTIAL | Ansible CI fixed (PR #1); `--check` on wdmch requires SSH access |
