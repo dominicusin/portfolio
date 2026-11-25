@@ -424,3 +424,12 @@ GHC 9.6.5 / Stack 3.x (surypus), Python 3.11+ (Wagtail 3.12), Node 24, Hugo Exte
 | UAW-005 | DONE | `dominicusin/uaw#5` merged: `core/policy.py` L0-L4, deny-by-default для delete/send/publish/financial, явные approvals, dry-run без side effects |
 | UAW-006 | DONE | `core/verification.py`: успешный вызов с неверным результатом помечается failed; 10 новых тестов |
 | Суммарно | 24 теста зелёные локально и в required job `state-durability` на main |
+
+## 16. Исполнение UAW-007, SEC-002, FTN/INF docs
+
+| Пункт | Статус | Доказательство |
+|---|---|---|
+| UAW-007 | DONE | `dominicusin/uaw#7` merged: `core/observability.py`, 6 тестов, combined required job **30 passed** |
+| SEC-002 | ЧАСТИЧНО | `artifacts/SEC-002-triage.md`: 14 активных репо с алертами приоритизированы; 5 archived/fork остаются блокированными по scope токена |
+| FTN-001/002/005 | Проект готов | `docs/FTN-001-002-design.md`, `docs/FTN-005-uaw-adapter.md`;Maintenance-константы (JAM DW, cron, areastat) зафиксированы как неизменяемые без restore-дрилла |
+| INF-005 | Проект готов | `docs/INF-005-restore-checklist.md`; фактический drill требует доступа к 192.168.1.2 |
