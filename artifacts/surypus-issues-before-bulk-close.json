@@ -1,0 +1,2895 @@
+[
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/github-actions"
+    },
+    "createdAt": "2026-11-23T19:08:08Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN8A",
+        "name": "documentation",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+      }
+    ],
+    "number": 257,
+    "title": "📈 Weekly Build Analytics - 2026-11-23"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/github-actions"
+    },
+    "createdAt": "2026-11-16T16:54:17Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN8A",
+        "name": "documentation",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+      }
+    ],
+    "number": 255,
+    "title": "📈 Weekly Build Analytics - 2026-11-16"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/github-actions"
+    },
+    "createdAt": "2026-11-09T17:20:58Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN8A",
+        "name": "documentation",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+      }
+    ],
+    "number": 253,
+    "title": "📈 Weekly Build Analytics - 2026-11-09"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/github-actions"
+    },
+    "createdAt": "2026-11-02T16:57:12Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN8A",
+        "name": "documentation",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+      }
+    ],
+    "number": 251,
+    "title": "📈 Weekly Build Analytics - 2026-11-02"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/github-actions"
+    },
+    "createdAt": "2026-10-26T14:04:28Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN8A",
+        "name": "documentation",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+      }
+    ],
+    "number": 248,
+    "title": "📈 Weekly Build Analytics - 2026-10-26"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:18:10Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w5UUw",
+        "name": "type::chore",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w5UVw",
+        "name": "priority::low",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 246,
+    "title": "Seed data и demo environment"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:18:09Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w5UUw",
+        "name": "type::chore",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w5UVw",
+        "name": "priority::low",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 245,
+    "title": "Обновить README и API docs под текущее состояние"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:18:08Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 243,
+    "title": "US-2-5: RBAC negative test (P2, 2SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:18:08Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 242,
+    "title": "US-2-3: Read Accounts (P2, 3SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:06Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 241,
+    "title": "US-3-6: WebSocket real-time (P3, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:06Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 240,
+    "title": "US-2-4: Create Journal Entry (P1, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:05Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 239,
+    "title": "US-3-7: Proxy usage and client migration plan (P3, 3SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:04Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 238,
+    "title": "US-2-10: Dashboard endpoint (P2, 3SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:04Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 237,
+    "title": "US-3-1: Accounts Event Store (P1, 8SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:03Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 236,
+    "title": "US-3-2: Account read-model replay (P1, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:02Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 235,
+    "title": "US-2-9: Read model ledger_projection (P2, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:02Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 234,
+    "title": "US-2-8: Read model account_balances (P2, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:01Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 233,
+    "title": "US-2-12: Phase 2 Integration tests (P2, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:01Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 232,
+    "title": "US-2-1: Login and RBAC (P1, 3SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:16:00Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 231,
+    "title": "US-3-3: Read models Redis cache (P2, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:59Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 230,
+    "title": "US-2-11: Read-model caching (P2, 3SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:59Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 229,
+    "title": "US-3-5: Redis Queue (P3, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:58Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 228,
+    "title": "US-2-7: OpenAPI Docs (P3, 2SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:58Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 227,
+    "title": "US-3-4: GraphQL Proxy (P2, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:57Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 226,
+    "title": "US-2-6: Health & Readiness (P2, 2SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:56Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 225,
+    "title": "US-2-2: Create Account (P1, 5SP)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:56Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 224,
+    "title": "Docker multi-stage build оптимизация"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:55Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 223,
+    "title": "Structured logging с correlation IDs"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:54Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 221,
+    "title": "GraphQL proxy: завершить schema и resolvers"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:52Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 218,
+    "title": "Multi-currency support: конвертация, курсы, расчёты"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:51Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 217,
+    "title": "Реализовать модуль Production: TechCard, WorkOrder, MRP"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:50Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 215,
+    "title": "Document test execution blockers and provide runbook"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:49Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 214,
+    "title": "Integrate Hasql-based EventStore into Accounting and Inventory services"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:49Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 213,
+    "title": "Create new project structure and workflow"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:48Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 212,
+    "title": "Analyze current API handlers - identify hardcoded data"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:48Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 211,
+    "title": "Fix remaining stub API handlers (reports, dashboard, jobs)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:47Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 210,
+    "title": "Implement real JWT token validation"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:47Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 209,
+    "title": "Add AuthProtect to SurypusApi for JWT authentication"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:46Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 208,
+    "title": "в Bill и Payment учитывать currency_id и exchange_rate"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:43Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 203,
+    "title": "Add QuickCheck property coverage for Commerce.Payment"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:43Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 202,
+    "title": "Web UI: подключить к реальному API"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:42Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 201,
+    "title": "Connection pooling, health checks, circuit breaker"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:42Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 200,
+    "title": "Реализовать инвентаризацию (Inventory document lifecycle)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:41Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 199,
+    "title": "Завершить модуль Payroll: SalaryCharge, периоды, расчёты"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:41Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 198,
+    "title": "Repair failing test infrastructure и добавить CI gates"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:40Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 197,
+    "title": "QuickCheck property tests для всех domain invariants"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:39Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 196,
+    "title": "Реализовать Job Worker и background processing"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:39Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 195,
+    "title": "Завершить WebSocket реальные уведомления"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:38Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 194,
+    "title": "Реализовать полноценный сервисный слой (Service.*)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:37Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 193,
+    "title": "6.3 — CI/CD gates: stack build+test, hlint, matrix testing"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:37Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4INg",
+        "name": "type::bug",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 192,
+    "title": "3.3 — Устранить SURYPUS_SKIP_RBAC_TESTS флаг"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:36Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4Pxg",
+        "name": "type::feature",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 191,
+    "title": "2.2 — LiquidHaskell invariants для Bill (NonNeg, balance conservation)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:36Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 190,
+    "title": "Implement remaining API handlers with real DB queries"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:35Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 189,
+    "title": "Setup test App.hs module with mkApp implementation"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:35Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 188,
+    "title": "Add database test fixture infrastructure for RBAC tests"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:34Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 187,
+    "title": "Provide test database with schema for local testing"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:33Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 186,
+    "title": "Create WebSocket module infrastructure"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:31Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 183,
+    "title": "Implement JWT authentication middleware"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:31Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 182,
+    "title": "Fix stub API handlers returning hardcoded data"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:30Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 181,
+    "title": "Phase 1.2: Implement real RBAC checks in requirePermissionText_"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:28Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 178,
+    "title": "Integrate Event Store into Inventory service"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:28Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4INg",
+        "name": "type::bug",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 177,
+    "title": "Fix stack build: hashtables C compile error on GHC 9.6.5"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:26Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4INg",
+        "name": "type::bug",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 174,
+    "title": "BillCore::Post flow implementation"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:26Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4INg",
+        "name": "type::bug",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 173,
+    "title": "Интеграционные тесты API endpoints против реальной PostgreSQL"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:24Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4INg",
+        "name": "type::bug",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 171,
+    "title": "Завершить RBAC middleware для всех endpoints"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:22Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4INg",
+        "name": "type::bug",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 168,
+    "title": "Подключить реальные DB-запросы в API handlers"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:22Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4INg",
+        "name": "type::bug",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 167,
+    "title": "1.3 — Stabilize DB migrations (resolve conflicts)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:21Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 166,
+    "title": "Fix Nix build environment for test execution"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:21Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 165,
+    "title": "Fix requirePermission_ to actually check user permissions"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:20Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 164,
+    "title": "Implement proper requirePermission with user context"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:15:19Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w4HFw",
+        "name": "status::in_progress",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 162,
+    "title": "Real DB queries in all API handlers — replace pure (SomeResponse []) with DAL calls"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:11:55Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n0w",
+        "name": "type::epic",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2uZA",
+        "name": "ledger",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2uZw",
+        "name": "phase-3",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 161,
+    "title": "Phase 3: Ledger Canon & Transaction Gateway"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:11:54Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n0w",
+        "name": "type::epic",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2t-g",
+        "name": "money",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2t_g",
+        "name": "phase-2",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 160,
+    "title": "Phase 2: Money & VAT Canon"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:11:53Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n0w",
+        "name": "type::epic",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2txg",
+        "name": "inventory",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2tyQ",
+        "name": "phase-4",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 159,
+    "title": "Phase 4: Master Data & Inventory Canon"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:11:52Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n0w",
+        "name": "type::epic",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2tfw",
+        "name": "billing",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2tgg",
+        "name": "phase-5",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 158,
+    "title": "Phase 5: Billing, Payments & Trial Balance"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:11:52Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n0w",
+        "name": "type::epic",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2tCQ",
+        "name": "auth",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2tDg",
+        "name": "phase-6",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 157,
+    "title": "Phase 6: Auth & RBAC"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:11:51Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACyJ4UHA",
+        "name": "verification",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n0w",
+        "name": "type::epic",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sow",
+        "name": "phase-8",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 156,
+    "title": "Phase 8: Verification & Proof"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:11:50Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n0w",
+        "name": "type::epic",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJA",
+        "name": "priority::medium",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sJw",
+        "name": "phase-7",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w2sKQ",
+        "name": "ui",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 155,
+    "title": "Phase 7: Server-rendered UI (HTMX)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:09:26Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3w",
+        "name": "phase-1",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1p3A",
+        "name": "toolchain",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 154,
+    "title": "01-04 Один тулчейн и create_test_db.sh"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:09:25Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3w",
+        "name": "phase-1",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1pPw",
+        "name": "server",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 153,
+    "title": "01-01 Сервер, контракт health, fail-fast конфигурация"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:09:24Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3w",
+        "name": "phase-1",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1odA",
+        "name": "migrations",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 152,
+    "title": "01-02 Канонический migration runner"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:09:24Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzhkLOg",
+        "name": "ci",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3w",
+        "name": "phase-1",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 151,
+    "title": "01-05 CI на реальном PostgreSQL"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:09:23Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3w",
+        "name": "phase-1",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1obw",
+        "name": "type::task",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1ocg",
+        "name": "priority::high",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1odA",
+        "name": "migrations",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 150,
+    "title": "01-03 Канонический корпус миграций V001/V002"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-23T02:09:22Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n0w",
+        "name": "type::epic",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n1g",
+        "name": "priority::critical",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n2Q",
+        "name": "bootstrap",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3Q",
+        "name": "gsd",
+        "description": "",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC-w1n3w",
+        "name": "phase-1",
+        "description": "",
+        "color": "ededed"
+      }
+    ],
+    "number": 149,
+    "title": "Phase 1: Bootstrap & Schema Truth"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/github-actions"
+    },
+    "createdAt": "2026-10-19T14:32:18Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN8A",
+        "name": "documentation",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+      }
+    ],
+    "number": 146,
+    "title": "📈 Weekly Build Analytics - 2026-10-19"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/github-actions"
+    },
+    "createdAt": "2026-10-19T09:41:56Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN8A",
+        "name": "documentation",
+        "description": "Improvements or additions to documentation",
+        "color": "0075ca"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAACfvyOXA",
+        "name": "dependencies",
+        "description": "Pull requests that update a dependency file",
+        "color": "0366d6"
+      }
+    ],
+    "number": 145,
+    "title": "📦 Weekly Outdated Dependencies Report"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:25:30Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodD-Q",
+        "name": "Epic",
+        "description": "A large feature spanning multiple issues",
+        "color": "5319e7"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EXw",
+        "name": "P2",
+        "description": "beads P2",
+        "color": "ededed"
+      }
+    ],
+    "number": 140,
+    "title": "Strategic Analysis — 19 tasks across 6 goals (reference)"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:24:59Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodD-Q",
+        "name": "Epic",
+        "description": "A large feature spanning multiple issues",
+        "color": "5319e7"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EKA",
+        "name": "P1",
+        "description": "beads P1",
+        "color": "ededed"
+      }
+    ],
+    "number": 139,
+    "title": "v52.0: CRM & Reports Implementation"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:54Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EjQ",
+        "name": "P3",
+        "description": "beads P3",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FVA",
+        "name": "chore",
+        "description": "beads chore",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 73,
+    "title": "QML: подключить к API и сделать рабочим"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:52Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EXw",
+        "name": "P2",
+        "description": "beads P2",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 72,
+    "title": "Prometheus metrics: реальные метрики вместо заглушек"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:51Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EXw",
+        "name": "P2",
+        "description": "beads P2",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 71,
+    "title": "Event Store foundation для CQRS"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:49Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EXw",
+        "name": "P2",
+        "description": "beads P2",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 70,
+    "title": "Индексы и оптимизация запросов"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:47Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EXw",
+        "name": "P2",
+        "description": "beads P2",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 69,
+    "title": "Implement Jobs DAL functions for jobsList, jobsCreate"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:45Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EXw",
+        "name": "P2",
+        "description": "beads P2",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 68,
+    "title": "Phase 2.1: Production Deployment Setup"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:44Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EXw",
+        "name": "P2",
+        "description": "beads P2",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 67,
+    "title": "WebSocket broadcast for Inventory events"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:42Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EXw",
+        "name": "P2",
+        "description": "beads P2",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 66,
+    "title": "Fix stack build: hashtables GCC16 + verify Surypus compiles"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:41Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EKA",
+        "name": "P1",
+        "description": "beads P1",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 65,
+    "title": "Implement Hasql-based event store in DAL/EventStore.hs"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:39Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EKA",
+        "name": "P1",
+        "description": "beads P1",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 64,
+    "title": "Replace API handlers with real DB queries"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:38Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EKA",
+        "name": "P1",
+        "description": "beads P1",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 63,
+    "title": "Phase 1.2: Implement real RBAC checks"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:36Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EKA",
+        "name": "P1",
+        "description": "beads P1",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 62,
+    "title": "Add AuthProtect to SurypusApi - extract user from JWT"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:35Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN6w",
+        "name": "bug",
+        "description": "Something isn't working",
+        "color": "d73a4a"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1EKA",
+        "name": "P1",
+        "description": "beads P1",
+        "color": "ededed"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 61,
+    "title": "Fix stack build: type mismatches in DAL.Queries.hs parameter encoding"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:32Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN6w",
+        "name": "bug",
+        "description": "Something isn't working",
+        "color": "d73a4a"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 60,
+    "title": "Исправить refresh token rotation"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:31Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN6w",
+        "name": "bug",
+        "description": "Something isn't working",
+        "color": "d73a4a"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 59,
+    "title": "Стабилизация и упорядочивание миграций БД"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:28Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACa7PN6w",
+        "name": "bug",
+        "description": "Something isn't working",
+        "color": "d73a4a"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 58,
+    "title": "Завершить интеграцию stored procedures с Haskell DAL"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjQ5NzUzMg==",
+      "is_bot": false,
+      "login": "dominicusin",
+      "name": "dominicusin"
+    },
+    "createdAt": "2026-10-17T02:14:26Z",
+    "labels": [
+      {
+        "id": "LA_kwDORj1Qh88AAAACzodDqQ",
+        "name": "Task",
+        "description": "A task to be completed",
+        "color": "0366d6"
+      },
+      {
+        "id": "LA_kwDORj1Qh88AAAAC9m1FjA",
+        "name": "in_progress",
+        "description": "beads in_progress",
+        "color": "ededed"
+      }
+    ],
+    "number": 57,
+    "title": "Real DB queries in all API handlers — replace pure (SomeResponse []) with DAL ca"
+  }
+]
