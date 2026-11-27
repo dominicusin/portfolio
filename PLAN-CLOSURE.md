@@ -46,3 +46,14 @@ Legend: **DONE** = evidence in CI/tests/merge; **DESIGN** = canonical design rec
 2. GitHub token scope `admin:repo_hook` and platform plan: archived/fork alert dismissals and private `Linux-Serv-Ansible` branch protection.
 3. Vault passphrase / rotated key: not needed for CI now, but any vault-gated operation remains unavailable; no secret was requested or displayed.
 4. Live CMS host for NEO-004 and publishing stack for SUR-005/006/008.
+
+
+## Addendum — 2026-11-27 (verified)
+
+| Item | Status | Evidence |
+|---|---|---|
+| Release pipeline | DONE | `v1.1.2` published 2026-11-26T13:58:37Z; tag from `main`; GHCR package `surypus` present; tag ruleset `creation` restriction removed while keeping deletion/non-fast-forward |
+| SURYPUS-SEC | DONE | surypus/surypus Dependabot 0 and CodeQL 0; PRs #269/#271/#272/#273; 3 vendored GSD-tooling findings dismissed as `won't fix` with rationale |
+| Phase 1 Bootstrap | DONE | GitHub #149–#154 closed; PRs #274 (real server + health probe + fail-fast), #275 (migration runner + checksum ledger), #276 (tenant scoping + event schema version), #267 (PostgreSQL CI), #259 (toolchain) |
+| Phase 2 Money/VAT | DONE | GitHub #160 closed; `Finance.Types`, `Core.Tax`, `Core/TaxSpec.hs` property tests; stack test green |
+| Beads/DoltHub sync | DONE | `~/.hermes/scripts/beads-github-sync.py`, cron `b53f5e3e5247` every 2h; GitHub state authoritative; duplicate-title guard prevents resurrecting already-done work; 97/104 beads closed |
